@@ -142,13 +142,13 @@
       "daily-notes:Ouvrir la note quotidienne": true,
       "templates:Insérer le modèle": true,
       "command-palette:Ouvrir la palette de commandes": false,
-      "password-protection:Unlock password protection": false,
       "obsidian-custom-frames:Open Google Calendar": false,
       "cmdr:Google Calendar": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "password-protection:Unlock password protection": false
     }
   },
-  "active": "f5e6bdb5a286bfca",
+  "active": "81e110e9eda5a89f",
   "lastOpenFiles": [
     "README.md",
     "tmp/README.md",
