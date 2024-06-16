@@ -1,0 +1,1 @@
+![[Slime blue 1.png]]![[Slime blue 2.png]]![[Slime blue 3.png]]![[Slime blue 4.png]]![[Slime purpel.png]]![[Slime purpel realistique.png]]![[Humain-mis-slime purpel.png]]

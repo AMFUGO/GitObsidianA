@@ -1,0 +1,54 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Bonsoire.",
+  "customFont": "custom",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showStarredFiles": false,
+  "showRecentFiles": true,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "Yume/Yume Picture/Personnages/Yume/Yume retenue.png",
+      "timestamp": 1717106922271
+    },
+    {
+      "filepath": "Antonin/Recette de cookie.md",
+      "timestamp": 1717088638508
+    },
+    {
+      "filepath": "Antonin/Manwha.md",
+      "timestamp": 1717083274121
+    },
+    {
+      "filepath": "Antonin/Re Mental.md",
+      "timestamp": 1717083271876
+    },
+    {
+      "filepath": "Antonin/Grand Orale/Grand orale.md",
+      "timestamp": 1717050086673
+    }
+  ],
+  "starredFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false,
+  "font": "Carlito"
+}

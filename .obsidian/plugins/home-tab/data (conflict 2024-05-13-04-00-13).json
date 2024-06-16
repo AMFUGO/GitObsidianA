@@ -1,0 +1,54 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Bonsoire.",
+  "customFont": "custom",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showStarredFiles": false,
+  "showRecentFiles": true,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "Yume/Yume Picture/Personnages/Yurime/Yurime retenue.png",
+      "timestamp": 1715550455095
+    },
+    {
+      "filepath": "Yume/Yume Picture/Personnages/Akane/Akane.png",
+      "timestamp": 1715550450407
+    },
+    {
+      "filepath": "Yume/Yume Picture/Personnages/Ai-Raiu/Ai-raiu-retenue.png",
+      "timestamp": 1715550448434
+    },
+    {
+      "filepath": "Sans titre 1.md",
+      "timestamp": 1715378448591
+    },
+    {
+      "filepath": "Antonin/Manwha.md",
+      "timestamp": 1715375517324
+    }
+  ],
+  "starredFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false,
+  "font": "Carlito"
+}

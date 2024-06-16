@@ -1,0 +1,17 @@
+### Métaux Lanthanides :
+
+1. [[Lanthane]]
+2. [[Cérium]]
+3. [[Praséodyme]]
+4. [[Néodyme]]
+5. [[Prométhium]]
+6. [[Samarium]]
+7. [[Europium]]
+8. [[Gadolinium]]
+9. [[Terbium]]
+10. [[Dysprosium]]
+11. [[Holmium]]
+12. [[Erbium]]
+13. [[Thulium]]
+14. [[Ytterbium]]
+15. [[Lutétium]]

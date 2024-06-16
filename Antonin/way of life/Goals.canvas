@@ -1,0 +1,116 @@
+{
+  "nodes": [
+    {
+      "id": "48c6ab7be406346a",
+      "type": "file",
+      "file": "Antonin/way of life/Code.md",
+      "x": -36,
+      "y": 760,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "56f5d9e271cdd1b5",
+      "type": "file",
+      "file": "Antonin/way of life/BAC.md",
+      "x": -36,
+      "y": -40,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "0577a4e8bb6df805",
+      "type": "file",
+      "file": "Antonin/Grand Orale/Grand orale.md",
+      "x": -36,
+      "y": -840,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "531306ad24075844",
+      "type": "text",
+      "text": "6 jour",
+      "x": 480,
+      "y": 900,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "f450f23ebbe88a81",
+      "type": "text",
+      "text": "environ 18 jours",
+      "x": 480,
+      "y": 110,
+      "width": 260,
+      "height": 50
+    },
+    {
+      "id": "5137c1429395a17d",
+      "type": "text",
+      "text": "environ 26 jours",
+      "x": 480,
+      "y": -690,
+      "width": 260,
+      "height": 50
+    },
+    {
+      "id": "644d392db3ddf426",
+      "type": "file",
+      "file": "Antonin/way of life/Permie.md",
+      "x": -36,
+      "y": -1640,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "9bf83ed689585b8f",
+      "type": "file",
+      "file": "Antonin/way of life/argent/Livre de poche.md",
+      "x": -36,
+      "y": -2440,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "29f343a0cb64dc18",
+      "type": "text",
+      "text": "Jeudi 1 aout = 2 mois",
+      "x": 480,
+      "y": -2265,
+      "width": 260,
+      "height": 50
+    }
+  ],
+  "edges": [
+    {
+      "id": "b766164ed8ecc214",
+      "fromNode": "48c6ab7be406346a",
+      "fromSide": "top",
+      "toNode": "56f5d9e271cdd1b5",
+      "toSide": "bottom"
+    },
+    {
+      "id": "b1e7c545d8694de0",
+      "fromNode": "56f5d9e271cdd1b5",
+      "fromSide": "top",
+      "toNode": "0577a4e8bb6df805",
+      "toSide": "bottom"
+    },
+    {
+      "id": "ff0ff99fc0de3114",
+      "fromNode": "0577a4e8bb6df805",
+      "fromSide": "top",
+      "toNode": "644d392db3ddf426",
+      "toSide": "bottom"
+    },
+    {
+      "id": "6ef164994d76ac6d",
+      "fromNode": "644d392db3ddf426",
+      "fromSide": "top",
+      "toNode": "9bf83ed689585b8f",
+      "toSide": "bottom"
+    }
+  ],
+  "metadata": {}
+}

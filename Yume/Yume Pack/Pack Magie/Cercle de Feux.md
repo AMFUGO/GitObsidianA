@@ -1,0 +1,1 @@
+Le Grand cercle du feux est la concordance des 2 précédent, soit un double losange verticale et horizontale, avec des très disposez de façon a obtenir une combinaison de losange et de triangle.

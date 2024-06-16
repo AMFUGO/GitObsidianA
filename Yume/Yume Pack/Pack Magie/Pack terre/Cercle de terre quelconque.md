@@ -1,0 +1,1 @@
+Pour désignez ma magie de terre (sols) on utilise donc un cercle magique avec un pentagone et un triangle en sont centre qui est de la forme que l'on veux, temp qu'il est quelconque.

@@ -1,0 +1,26 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "Autre": 1,
+    "way-of-life": 2,
+    "shift": 3,
+    "réve": 4,
+    "Recette": 5,
+    "Statistique": 6,
+    "excalidraw": 7,
+    "auther": 8,
+    "Auther": 9,
+    "Hello": 10,
+    "oral": 11
+  },
+  "_version": 3
+}

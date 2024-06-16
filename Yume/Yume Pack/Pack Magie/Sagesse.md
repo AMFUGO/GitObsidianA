@@ -1,0 +1,1 @@
+La sagesse est désignez par un pentagone parfaite, si il est difforme il ne donnera rien. 

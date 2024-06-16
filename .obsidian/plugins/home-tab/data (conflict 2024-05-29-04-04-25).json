@@ -1,0 +1,54 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Bonsoire.",
+  "customFont": "custom",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showStarredFiles": false,
+  "showRecentFiles": true,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "Antonin/Manwha.md",
+      "timestamp": 1716916746016
+    },
+    {
+      "filepath": "Antonin/way of life/A savoire, apprendre/méta connaissance.canvas",
+      "timestamp": 1716751983372
+    },
+    {
+      "filepath": "Antonin/way of life/A savoire, apprendre/Tablette dessin.md",
+      "timestamp": 1716744920096
+    },
+    {
+      "filepath": "Antonin/way of life/A savoire, apprendre/Dessin.md",
+      "timestamp": 1716744887606
+    },
+    {
+      "filepath": "Antonin/way of life/Goals.md",
+      "timestamp": 1716640536592
+    }
+  ],
+  "starredFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false,
+  "font": "Carlito"
+}

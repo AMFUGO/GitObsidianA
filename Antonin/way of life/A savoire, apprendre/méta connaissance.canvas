@@ -1,0 +1,151 @@
+{
+  "nodes": [
+    {
+      "id": "944f9403a32dab27",
+      "type": "file",
+      "file": "Antonin/way of life/A savoire, apprendre/Organisation.md",
+      "x": 84,
+      "y": 1440,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "b10cf58f8b7ec514",
+      "type": "file",
+      "file": "Antonin/way of life/A savoire, apprendre/Montage.md",
+      "x": 84,
+      "y": 618,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e3bd83e37040edf9",
+      "type": "file",
+      "file": "Antonin/way of life/A savoire, apprendre/Vidéo.md",
+      "x": 84,
+      "y": -240,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "c3d47c748e181e67",
+      "type": "file",
+      "file": "Antonin/way of life/A savoire, apprendre/Lien affiliation.md",
+      "x": 84,
+      "y": -1080,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e580302160ae68cf",
+      "type": "file",
+      "file": "Antonin/way of life/A savoire, apprendre/Histoire.md",
+      "x": 84,
+      "y": -1889,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "a34b18c723d36c2c",
+      "type": "file",
+      "file": "Antonin/way of life/A savoire, apprendre/Thème.md",
+      "x": 960,
+      "y": -240,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "c33a77b3a2aba734",
+      "type": "file",
+      "file": "Antonin/way of life/A savoire, apprendre/Dessin.md",
+      "x": -720,
+      "y": -1889,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "342bc949a36514a1",
+      "type": "file",
+      "file": "Antonin/way of life/Goals.md",
+      "x": 84,
+      "y": -2760,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e0ef7930e3bfa6a8",
+      "type": "file",
+      "file": "Antonin/way of life/A savoire, apprendre/Tablette dessin.md",
+      "x": -1560,
+      "y": -1889,
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "edges": [
+    {
+      "id": "20025964ef5e74d8",
+      "fromNode": "e580302160ae68cf",
+      "fromSide": "left",
+      "toNode": "c33a77b3a2aba734",
+      "toSide": "right"
+    },
+    {
+      "id": "61dd4f2c7480d33a",
+      "fromNode": "944f9403a32dab27",
+      "fromSide": "top",
+      "toNode": "b10cf58f8b7ec514",
+      "toSide": "bottom"
+    },
+    {
+      "id": "97d5afaf0b8b33bc",
+      "fromNode": "b10cf58f8b7ec514",
+      "fromSide": "top",
+      "toNode": "e3bd83e37040edf9",
+      "toSide": "bottom"
+    },
+    {
+      "id": "0cefa237c3427e2a",
+      "fromNode": "e3bd83e37040edf9",
+      "fromSide": "top",
+      "toNode": "c3d47c748e181e67",
+      "toSide": "bottom"
+    },
+    {
+      "id": "f31f61ce7c91d1b8",
+      "fromNode": "c3d47c748e181e67",
+      "fromSide": "top",
+      "toNode": "e580302160ae68cf",
+      "toSide": "bottom"
+    },
+    {
+      "id": "898f0c3719f2a6c9",
+      "fromNode": "e3bd83e37040edf9",
+      "fromSide": "right",
+      "toNode": "a34b18c723d36c2c",
+      "toSide": "left"
+    },
+    {
+      "id": "71b3a978154eff53",
+      "fromNode": "a34b18c723d36c2c",
+      "fromSide": "top",
+      "toNode": "c3d47c748e181e67",
+      "toSide": "bottom"
+    },
+    {
+      "id": "559945ed5c018ba2",
+      "fromNode": "e580302160ae68cf",
+      "fromSide": "top",
+      "toNode": "342bc949a36514a1",
+      "toSide": "bottom"
+    },
+    {
+      "id": "1b551b64c6488172",
+      "fromNode": "c33a77b3a2aba734",
+      "fromSide": "left",
+      "toNode": "e0ef7930e3bfa6a8",
+      "toSide": "right"
+    }
+  ],
+  "metadata": {}
+}

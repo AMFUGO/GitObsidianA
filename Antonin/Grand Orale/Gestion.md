@@ -1,0 +1,1 @@
+La gestion permet a l'utilisateur de savoir quand subvenir aux besoins des abeille, prévenue par des message réguliers  

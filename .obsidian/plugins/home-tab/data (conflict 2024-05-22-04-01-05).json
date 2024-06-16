@@ -1,0 +1,54 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Bonsoire.",
+  "customFont": "custom",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showStarredFiles": false,
+  "showRecentFiles": true,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "Yume/Yume Picture/Personnages/Yume/Yume's Picture.md",
+      "timestamp": 1716325678638
+    },
+    {
+      "filepath": "Yume.png.md",
+      "timestamp": 1716325652165
+    },
+    {
+      "filepath": "Antonin/Manwha.md",
+      "timestamp": 1716278782228
+    },
+    {
+      "filepath": "Antonin/Recette de cookie.md",
+      "timestamp": 1716272608057
+    },
+    {
+      "filepath": "Antonin/ETLV.md",
+      "timestamp": 1716267360599
+    }
+  ],
+  "starredFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false,
+  "font": "Carlito"
+}

@@ -1,0 +1,2 @@
+Les cercle de terre sont désignez par un grand pentagone avec en sont centre des triangle, les trois type de triangle standard applique certain type de magie (il y a donc 3 magie de terre différente) soit celle de la "terre" qui représente les sols argileux, sableux ect 
+suivie de la "pierre" et qui prend donc en compte tous les type de roche et pierre précieuse puis, plus complexe les métaux, dans le même ordre nous un triangle quelconque, isocèle puis équilatérale. 

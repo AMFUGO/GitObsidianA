@@ -1,0 +1,80 @@
+{
+  "nodes": [
+    {
+      "id": "4bee2bae9cb717f8",
+      "type": "file",
+      "file": "Antonin/way of life/Summur goal/Summur goal.canvas",
+      "x": -152,
+      "y": 1120,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "4df1ce9399396940",
+      "type": "file",
+      "file": "Antonin/way of life/Summur goal/Grand orale.md",
+      "x": -152,
+      "y": 500,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "21c96f2406cee87f",
+      "type": "file",
+      "file": "Antonin/way of life/argent/argent méta.canvas",
+      "x": -152,
+      "y": -1680,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "7119387fda14f16f",
+      "type": "file",
+      "file": "Antonin/way of life/Summur goal/Permie.md",
+      "x": -152,
+      "y": -960,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "75a958c9070f2727",
+      "type": "file",
+      "file": "Antonin/way of life/Summur goal/Code.md",
+      "x": -152,
+      "y": -240,
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "edges": [
+    {
+      "id": "29bfb04b9421d326",
+      "fromNode": "4bee2bae9cb717f8",
+      "fromSide": "top",
+      "toNode": "4df1ce9399396940",
+      "toSide": "bottom"
+    },
+    {
+      "id": "312230c9d8826f47",
+      "fromNode": "7119387fda14f16f",
+      "fromSide": "top",
+      "toNode": "21c96f2406cee87f",
+      "toSide": "bottom"
+    },
+    {
+      "id": "d7dddb45c63040a5",
+      "fromNode": "4df1ce9399396940",
+      "fromSide": "top",
+      "toNode": "75a958c9070f2727",
+      "toSide": "bottom"
+    },
+    {
+      "id": "5d87a75f2a762da1",
+      "fromNode": "75a958c9070f2727",
+      "fromSide": "top",
+      "toNode": "7119387fda14f16f",
+      "toSide": "bottom"
+    }
+  ],
+  "metadata": {}
+}

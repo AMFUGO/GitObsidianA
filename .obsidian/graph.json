@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "file:\"Yume\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711935
+      }
+    },
+    {
+      "query": "path:\"Yume/Yume Pack/Pack Magie/Pack terre\" ",
+      "color": {
+        "a": 1,
+        "rgb": 8737792
+      }
+    },
+    {
+      "query": "path:\"Yume/Yume Picture\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"Yume/Yume Under File\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 262399
+      }
+    },
+    {
+      "query": "path:\"Yume/Yume Pack\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9175295
+      }
+    },
+    {
+      "query": "path:Antonin  ",
+      "color": {
+        "a": 1,
+        "rgb": 65471
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.208333333333333,
+  "repelStrength": 10.9166666666667,
+  "linkStrength": 1,
+  "linkDistance": 75,
+  "scale": 0.0078125,
+  "close": false
+}

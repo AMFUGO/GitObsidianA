@@ -1,0 +1,53 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Obsidian",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showStarredFiles": false,
+  "showRecentFiles": false,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "Yume/Yume Picture/Personnages/Yurime/Yurime retenue.png",
+      "timestamp": 1715282680476
+    },
+    {
+      "filepath": "Yume/Yume Picture/Personnages/Myuna/Myuna 2.jpg",
+      "timestamp": 1715282672402
+    },
+    {
+      "filepath": "Yume/Yume Picture/Personnages/Snail girl/Snail girl retenue.png",
+      "timestamp": 1715282657272
+    },
+    {
+      "filepath": "Yume/Yume Picture/Personnages/Hifumi/Hifumi retenue.png",
+      "timestamp": 1715282649174
+    },
+    {
+      "filepath": "Yume/Yume Picture/Personnages/Ai-Raiu/Ai-raiu-retenue.png",
+      "timestamp": 1715282632533
+    }
+  ],
+  "starredFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false
+}

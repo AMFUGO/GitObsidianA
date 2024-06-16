@@ -1,0 +1,1 @@
+C'est condition sont sous plusieurs forme mettant en péril l'espèce animale des abeille, sous forme de forte sécheresse, amenant a la déshydratation, de fort froid, de maladie, ou encore de forte précipitation empêchant les abeille de sortir.

@@ -1,0 +1,1 @@
+Emglobe tous les type de métaux en chaque type de cercle dépendant

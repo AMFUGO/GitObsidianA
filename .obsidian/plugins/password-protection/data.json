@@ -1,0 +1,8 @@
+{
+  "protectedPath": "/",
+  "protectEnabled": true,
+  "password": "OVSPPS",
+  "lang": "auto",
+  "forbidClosePassVerifyModal": true,
+  "autoLockInterval": 0
+}

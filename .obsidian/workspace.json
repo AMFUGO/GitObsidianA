@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "500d3c97a7cf2553",
+    "type": "split",
+    "children": [
+      {
+        "id": "2dded5df2ccbd895",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5e6bdb5a286bfca",
+            "type": "leaf",
+            "state": {
+              "type": "beautitab-react-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7686ae9f92f81e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecf430516ba7c7ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81e110e9eda5a89f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0414c196eaa7a703",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Auther",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "67417b8cda67bbbf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "187ac51ac86ab12a",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "624c7a89d4302976",
+    "type": "split",
+    "children": [
+      {
+        "id": "afa4354703ee9f5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "183207b9e4595d16",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "759dfe9da446ad97",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3a74e45d0c886375",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "62307a4f8ffeb7f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Ouvrir la vue graphique": false,
+      "switcher:Ouvrir le sélecteur rapide": true,
+      "canvas:Créer une nouvelle toile": true,
+      "daily-notes:Ouvrir la note quotidienne": true,
+      "templates:Insérer le modèle": true,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "password-protection:Unlock password protection": false,
+      "obsidian-custom-frames:Open Google Calendar": false,
+      "cmdr:Google Calendar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "f5e6bdb5a286bfca",
+  "lastOpenFiles": [
+    "README.md",
+    "tmp/README.md",
+    "tmp",
+    "Antonin/way of life/Focus.md",
+    "tmp.lnk",
+    "Antonin/way of life/Sans titre.md",
+    "Yume/Yume Chapitres/★ Yume résumée.md",
+    "Yume/Yume Chapitres/Yume -1 ....md",
+    "Yume/Yume Chapitres/Yume deuxième partie académie grotte.md",
+    "Yume/Yume Chapitres/★ Yume  all chapters.md",
+    "Yume/Yume Chapitres/★ Yume 20 Un gentil petit tigre.md",
+    "Yume/Yume Chapitres/★ Yume 19 Exploration dans la grotte.md",
+    "Yume/Yume Chapitres/★ Yume 18 Champignon et argile.md",
+    "Yume/Yume Chapitres/★ Yume 17 Confusion du champignon.md",
+    "Yume/Yume Chapitres/★ Yume 16 Le chat dans le sac.md",
+    "Yume/Yume Chapitres/★ Yume 15 Dernier repo....md",
+    "Yume/Yume Chapitres/★ Yume 14 Bonjour l'infirmière, Bonjour la banquière..md",
+    "Yume/Yume Chapitres/★ Yume 13 Quelle que cookie plus tard.md",
+    "Yume/Yume Chapitres/★ Yume 12 Une grotte remplie de cookie.md",
+    "Yume/Yume Chapitres/★ Yume 11 Bonne nouvelle....md",
+    "Antonin/Manwha.md",
+    "Yume/Yume On File/Yume Remember.md",
+    "Antonin/Monster.md",
+    "Antonin/Recette de cookie.md",
+    "Antonin/Grand Orale.rar",
+    "Antonin/Grand Orale/Grand Orale.canvas",
+    "Antonin/Grand Orale/Jusqu’où la biométrie peut participe a la gestion de la ruche.md",
+    "Antonin/Grand Orale/Intro 2.md",
+    "Antonin/Grand Orale/Intro.md",
+    "Antonin/way of life/Goals.canvas",
+    "Antonin/way of life/argent/argent méta.canvas",
+    "Antonin/way of life/Summur goal/Summur goal.canvas",
+    "Antonin/way of life/Summur goal",
+    "Antonin/way of life/A savoire, apprendre/méta connaissance.canvas",
+    "Antonin/way of life/A savoire, apprendre",
+    "Antonin/way of life/argent",
+    "Yume/Yume Pack/Pack Magie/Magie.canvas",
+    "Yume/Yume Pack/Pack Magie/Magie spéciale/Sans titre",
+    "Yume/Yume Pack/Yume Pack.canvas",
+    "Antonin/Grand Orale",
+    "Yume/Yume Picture/Personnages/Myuna/Myuna.png",
+    "1715081088896.jpg",
+    "1715082056081.jpg",
+    "Yume/Yume Picture/Personnages/Myuna/Myuna 2.jpg",
+    "1714939858163.jpg",
+    "1714939858172.jpg",
+    "1714939858136.jpg",
+    "Yume/Yume Pack/Pack Magie/Pack terre/Magie de Terre.canvas",
+    "Yume/Yume Pack/Pack Magie/Pack terre/Matériaux magique",
+    "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Actinides",
+    "Yume/Yume Picture/Personnages/Yume/Yume pref 5.png",
+    "Yume/Yume Picture/Personnages/Yume/Yume retenue.png",
+    "Yume/Yume Picture/Personnages/Kōri/Kōri retenue.jpg",
+    "way of life/way of life.canvas",
+    "Untitled.canvas"
+  ]
+}

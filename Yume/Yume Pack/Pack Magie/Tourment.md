@@ -1,0 +1,1 @@
+Le Tourment est désignez par hexagone, il ne fonctionne uniquement si c'est cotée ne sont pas pareille, mais garde une certaine géométrie.

@@ -1,0 +1,3287 @@
+{
+  "nodes": [
+    {
+      "id": "cd54e4c2ed1754af",
+      "type": "group",
+      "x": 6720,
+      "y": 9600,
+      "width": 17960,
+      "height": 3840,
+      "color": "#a0a1a2",
+      "label": "Métaux"
+    },
+    {
+      "id": "f972f5a4a5af8112",
+      "type": "group",
+      "x": 7020,
+      "y": -1630,
+      "width": 3200,
+      "height": 4480,
+      "label": "Les Terre"
+    },
+    {
+      "id": "d4588b7759761115",
+      "type": "group",
+      "x": 10560,
+      "y": 1580,
+      "width": 3240,
+      "height": 4040,
+      "label": "Les pierres et roches"
+    },
+    {
+      "id": "efff118350df701b",
+      "type": "group",
+      "x": 5120,
+      "y": 5640,
+      "width": 3800,
+      "height": 2820,
+      "label": "Les Gemmes"
+    },
+    {
+      "id": "555ef54c13d7d912",
+      "type": "group",
+      "x": 6820,
+      "y": 12130,
+      "width": 17718,
+      "height": 440,
+      "color": "#66ff00",
+      "label": "Métaux"
+    },
+    {
+      "id": "fc76466e38f172b7",
+      "type": "group",
+      "x": -3340,
+      "y": -3270,
+      "width": 2040,
+      "height": 1880,
+      "label": "Magie Brute"
+    },
+    {
+      "id": "6b81db34ddbbc099",
+      "type": "group",
+      "x": 6820,
+      "y": 11330,
+      "width": 7487,
+      "height": 440,
+      "color": "#fbff00",
+      "label": "Lanthanides"
+    },
+    {
+      "id": "fdceb46ce5df7cd3",
+      "type": "group",
+      "x": 6820,
+      "y": 9730,
+      "width": 7465,
+      "height": 440,
+      "color": "#ff0026",
+      "label": "Actinides"
+    },
+    {
+      "id": "927a7e129636b5d8",
+      "type": "group",
+      "x": 6820,
+      "y": 10530,
+      "width": 3465,
+      "height": 440,
+      "color": "3",
+      "label": "Alcalins"
+    },
+    {
+      "id": "597094f968a213dc",
+      "type": "group",
+      "x": 6820,
+      "y": 12930,
+      "width": 3465,
+      "height": 440,
+      "color": "#00ffbf",
+      "label": "Alcalino-terreux"
+    },
+    {
+      "id": "179d9a0e0c436fd8",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux de Transition/Tantale.md",
+      "x": 21003,
+      "y": 12150,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "315f17d3bfefe335",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux de Transition/Technétium.md",
+      "x": 21448,
+      "y": 12150,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e96b654d54d1692c",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux de Transition/Titane.md",
+      "x": 21893,
+      "y": 12150,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "5f1affe5b3c3e642",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux de Transition/Tungstène.md",
+      "x": 22338,
+      "y": 12150,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "01eebf377fb7a978",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux de Transition/Vanadium.md",
+      "x": 22783,
+      "y": 12150,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "72b068a967ea1726",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux de Transition/Seaborgium.md",
+      "x": 20558,
+      "y": 12150,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e06a407e8406242d",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux de Transition/Rutherfordium.md",
+      "x": 19664,
+      "y": 12150,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "da05b352a05ca203",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux de Transition/Scandium.md",
+      "x": 20109,
+      "y": 12150,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "bcf9b1b167fc2c8b",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux de Transition/Yttrium.md",
+      "x": 23228,
+      "y": 12150,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "a1456a0765f9ce44",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux de Transition/Zinc.md",
+      "x": 23673,
+      "y": 12150,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "2740f60a8fac9916",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux de Transition/Zirconium.md",
+      "x": 24118,
+      "y": 12150,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "74034d3d4eb31b5d",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Roches/Roches Complexes/Gemmes/Jade.md",
+      "x": 5140,
+      "y": 6360,
+      "width": 400,
+      "height": 400,
+      "color": "#00b899"
+    },
+    {
+      "id": "4c5dce9f49b047aa",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Roches/Roches Complexes/Gemmes/Saphir.md",
+      "x": 5820,
+      "y": 5640,
+      "width": 400,
+      "height": 400,
+      "color": "#00b899"
+    },
+    {
+      "id": "11f5cca676375409",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Roches/Roches Complexes/Gemmes/Rubis.md",
+      "x": 6860,
+      "y": 8040,
+      "width": 400,
+      "height": 400,
+      "color": "#00b899"
+    },
+    {
+      "id": "5b93fb0d97aa91aa",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Roches/Roches Complexes/Gemmes/Opale.md",
+      "x": 7540,
+      "y": 7320,
+      "width": 400,
+      "height": 400,
+      "color": "#00b899"
+    },
+    {
+      "id": "3ac079f5d8d8ccf5",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Roches/Roches Complexes/Gemmes/Émeraude.md",
+      "x": 5140,
+      "y": 7320,
+      "width": 400,
+      "height": 400,
+      "color": "#00b899"
+    },
+    {
+      "id": "ddf552c579a0f5de",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Roches/Roches Complexes/Gemmes/Topaze.md",
+      "x": 5820,
+      "y": 8040,
+      "width": 400,
+      "height": 400,
+      "color": "#00b899"
+    },
+    {
+      "id": "2cfd8d98f1acc080",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Roches/Roches Complexes/Quartz.md",
+      "x": 8420,
+      "y": 6840,
+      "width": 400,
+      "height": 400,
+      "color": "#00b899"
+    },
+    {
+      "id": "5edb6454eee323d9",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Roches/Roches Complexes/Gemmes/Diamant.md",
+      "x": 7540,
+      "y": 6360,
+      "width": 400,
+      "height": 400,
+      "color": "#00b899"
+    },
+    {
+      "id": "be35a1f6c9f524ea",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Roches/Roches Complexes/Gemmes/Améthyste.md",
+      "x": 6860,
+      "y": 5640,
+      "width": 400,
+      "height": 400,
+      "color": "#00b899"
+    },
+    {
+      "id": "2004ecc313d60f8c",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Terres/Terre franche.md",
+      "x": 7040,
+      "y": -1610,
+      "width": 400,
+      "height": 400,
+      "color": "#c77400"
+    },
+    {
+      "id": "0bfc03a53fc430fe",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Terres/Sols Sableux/Sols sableux.md",
+      "x": 7440,
+      "y": -770,
+      "width": 400,
+      "height": 400,
+      "color": "#c77400"
+    },
+    {
+      "id": "b21935f89113be02",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Terres/Sols Sableux/Sables fins.md",
+      "x": 7440,
+      "y": 30,
+      "width": 400,
+      "height": 400,
+      "color": "#c77400"
+    },
+    {
+      "id": "e147d5a37af4b0c0",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Terres/Sols Argileux/Sols Argileux.md",
+      "x": 8240,
+      "y": -370,
+      "width": 400,
+      "height": 400,
+      "color": "#c77400"
+    },
+    {
+      "id": "c79dd3ff58ce9956",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Terres/Sols Standards/Sols Standards.md",
+      "x": 9000,
+      "y": 30,
+      "width": 400,
+      "height": 400,
+      "color": "#c77400"
+    },
+    {
+      "id": "5de92b25fc6b26c1",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Terres/Sols Standards/Limoneux.md",
+      "x": 9000,
+      "y": 830,
+      "width": 400,
+      "height": 400,
+      "color": "#c77400"
+    },
+    {
+      "id": "c738af22c086d10e",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Cercle de terre isocèl.md",
+      "x": 6820,
+      "y": 3400,
+      "width": 400,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "09b97b543940553e",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Terres/Sols Standards/Tourbe.md",
+      "x": 9000,
+      "y": 1630,
+      "width": 400,
+      "height": 400,
+      "color": "#c77400"
+    },
+    {
+      "id": "22b615e1480bdbce",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Terres/Sols Argileux/Argiles sableuse.md",
+      "x": 8240,
+      "y": 1230,
+      "width": 400,
+      "height": 400,
+      "color": "#c77400"
+    },
+    {
+      "id": "3a6e3592e01a871e",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Terres/Sols Sableux/Sables grossiers.md",
+      "x": 7440,
+      "y": 830,
+      "width": 400,
+      "height": 400,
+      "color": "#c77400"
+    },
+    {
+      "id": "495a9cd9c7f1f0e7",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Terres/Sols Argileux/Argiles pures.md",
+      "x": 8240,
+      "y": 430,
+      "width": 400,
+      "height": 400,
+      "color": "#c77400"
+    },
+    {
+      "id": "c9f7bb9ed1e4d99c",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Terres/Sols Salins/Sols salés.md",
+      "x": 9800,
+      "y": 430,
+      "width": 400,
+      "height": 400,
+      "color": "#c77400"
+    },
+    {
+      "id": "8618c5fe9946e671",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Roches/Pierre.md",
+      "x": 10580,
+      "y": 5200,
+      "width": 400,
+      "height": 400,
+      "color": "#8a5e00"
+    },
+    {
+      "id": "d3304f4ba5c4d552",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Terres/Sols Standards/Humus.md",
+      "x": 9000,
+      "y": 2430,
+      "width": 400,
+      "height": 400,
+      "color": "#c77400"
+    },
+    {
+      "id": "8ca81425ab5c4c9a",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Cercle de terre quelconque.md",
+      "x": 4740,
+      "y": 1030,
+      "width": 400,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "d6fc286e8340e19f",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Actinides/Californium.md",
+      "x": 8975,
+      "y": 9750,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "7bd3be91b134852f",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Actinides/Berkélium.md",
+      "x": 8530,
+      "y": 9750,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "9185ab1f85a7acba",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Actinides/Actinium.md",
+      "x": 7640,
+      "y": 9750,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "219a99e67a17581b",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Actinides/Américium.md",
+      "x": 8085,
+      "y": 9750,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "45a92f9a4102b2f0",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Actinides/Curium.md",
+      "x": 9420,
+      "y": 9750,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "044319bd2a02b7ed",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Actinides/Einsteinium.md",
+      "x": 9865,
+      "y": 9750,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "ee657145bdcce85d",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Actinides/Actinides.md",
+      "x": 6840,
+      "y": 9750,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "dce4e7faa17c61a6",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Sagesse.md",
+      "x": 4000,
+      "y": 3800,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "73c646b0fdf6acff",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Tourment.md",
+      "x": 3800,
+      "y": 9350,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "11d3e12f8dd4a0f8",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Éclat.md",
+      "x": 3400,
+      "y": 9750,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "6928cd6f1b107518",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Primitive.md",
+      "x": 3200,
+      "y": 4600,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "08f1a3390acabfec",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Ardeur.md",
+      "x": 3600,
+      "y": 4200,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "667dd5fee7e5ed36",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Éclat.md",
+      "x": 2800,
+      "y": 5000,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "5c194b9b4b429a38",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Cercle De terre.md",
+      "x": 2400,
+      "y": 1630,
+      "width": 400,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "4323be5431f497be",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Éclat.md",
+      "x": -1720,
+      "y": -2570,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "bf39c956d656b3bc",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Mana.md",
+      "x": -2580,
+      "y": -2625,
+      "width": 520,
+      "height": 510,
+      "color": "#940000"
+    },
+    {
+      "id": "b1f33b21b75ed2c4",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Sagesse.md",
+      "x": -2120,
+      "y": -1810,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "3e08f524d188c178",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Cercle d'Air.md",
+      "x": -2520,
+      "y": 3000,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "8657bc91a1392aba",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Ardeur.md",
+      "x": -2520,
+      "y": -3250,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "1e48b48d544476b3",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Tourment.md",
+      "x": -2920,
+      "y": -1810,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "f28ef22a05cadcd6",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Primitive.md",
+      "x": -3320,
+      "y": -2570,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "28c61bf741b3c5da",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Cercle de Feux.md",
+      "x": -3720,
+      "y": -8320,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "4fabd59e6857b963",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Cercle de Lumière.md",
+      "x": 3680,
+      "y": -6720,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "9244940b08cdc860",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Roches/Roches Simples/Granite Simple.md",
+      "x": 11380,
+      "y": 4800,
+      "width": 400,
+      "height": 400,
+      "color": "#8a5e00"
+    },
+    {
+      "id": "0fde45888efc1643",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Roches/Roches Simples/Marbre Simple.md",
+      "x": 11780,
+      "y": 4000,
+      "width": 400,
+      "height": 400,
+      "color": "#8a5e00"
+    },
+    {
+      "id": "e05eea19ab5886c0",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Roches/Roches Simples/Gypse.md",
+      "x": 12180,
+      "y": 3200,
+      "width": 400,
+      "height": 400,
+      "color": "#8a5e00"
+    },
+    {
+      "id": "e8c0b3adb560ba9b",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Roches/Roches Complexes/Granite Complexe.md",
+      "x": 12180,
+      "y": 4800,
+      "width": 400,
+      "height": 400,
+      "color": "#8a5e00"
+    },
+    {
+      "id": "f54ee9756bb3f124",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Ardeur.md",
+      "x": 3000,
+      "y": 10150,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "edcbba9692611d57",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Cercle de terre équilatéral.md",
+      "x": 4240,
+      "y": 11350,
+      "width": 400,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "321fc3da28d96197",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Roches/Métaux quelconque.md",
+      "x": 5200,
+      "y": 11350,
+      "width": 400,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "2af7af809045820c",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Cercle additionnelle équilatérale.md",
+      "x": 4240,
+      "y": 12550,
+      "width": 400,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "09d0d26735293ebf",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux Lanthanides/Lanthanides.md",
+      "x": 6840,
+      "y": 11350,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "9e29862250d05d91",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Alcalins/Alcalins.md",
+      "x": 6840,
+      "y": 10550,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "81368facee3a1772",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Roches/Roches Simples/Ardoise.md",
+      "x": 12580,
+      "y": 2400,
+      "width": 400,
+      "height": 400,
+      "color": "#8a5e00"
+    },
+    {
+      "id": "f977f577e00dc0c7",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Roches/Roches Simples/Basalte.md",
+      "x": 12980,
+      "y": 1600,
+      "width": 400,
+      "height": 400,
+      "color": "#8a5e00"
+    },
+    {
+      "id": "48ecd782b58a19dd",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Roches/Roches Complexes/Marbre Complexe.md",
+      "x": 12580,
+      "y": 4000,
+      "width": 400,
+      "height": 400,
+      "color": "#8a5e00"
+    },
+    {
+      "id": "07f287b8b9408bd6",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Roches/Roches Complexes/Calcite.md",
+      "x": 13380,
+      "y": 2400,
+      "width": 400,
+      "height": 400,
+      "color": "#8a5e00"
+    },
+    {
+      "id": "a3b0c032d4db7218",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Actinides/Uranium.md",
+      "x": 13420,
+      "y": 9750,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "539ff0b19939f50f",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Actinides/Protactinium.md",
+      "x": 12530,
+      "y": 9750,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "db5fe9c4db8621f3",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Actinides/Thorium.md",
+      "x": 12975,
+      "y": 9750,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e34d4a46ce9ebd1f",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Actinides/Nobelium.md",
+      "x": 11640,
+      "y": 9750,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "75f233606543196c",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Actinides/Plutonium.md",
+      "x": 12085,
+      "y": 9750,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "dfe65e80abe13409",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Actinides/Fermium.md",
+      "x": 10310,
+      "y": 9750,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "95d0a29616f1b30b",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Actinides/Lawrencium.md",
+      "x": 10755,
+      "y": 9750,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "5d2df6ca81478f11",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Actinides/Mendélévium.md",
+      "x": 11200,
+      "y": 9750,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "d624b2cbef7537f9",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Actinides/Neptunium.md",
+      "x": 13865,
+      "y": 9750,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "2417e9cd3785bc60",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Alcalins/Césium.md",
+      "x": 7640,
+      "y": 10550,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "b46bf06c379fd646",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Alcalins/Francium.md",
+      "x": 8085,
+      "y": 10550,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "5ba79c2cd726c098",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Alcalins/Potassium.md",
+      "x": 8975,
+      "y": 10550,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "a9d45cc5ac34bde4",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Alcalins/Lithium.md",
+      "x": 8530,
+      "y": 10550,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "68832a1b7a3756bc",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Alcalins/Rubidium.md",
+      "x": 9420,
+      "y": 10550,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "b64b790bb0b282c2",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Alcalins/Sodium.md",
+      "x": 9865,
+      "y": 10550,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "0114442386649765",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux Lanthanides/Cérium.md",
+      "x": 7640,
+      "y": 11350,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "f87a4f2b831246c0",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux Lanthanides/Dysprosium.md",
+      "x": 8085,
+      "y": 11350,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "5c295e733f67c7db",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux Lanthanides/Praséodyme.md",
+      "x": 11662,
+      "y": 11350,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "19f81fb27938e384",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux Lanthanides/Erbium.md",
+      "x": 8530,
+      "y": 11350,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "7adea7d95eff9b24",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux Lanthanides/Gadolinium.md",
+      "x": 9420,
+      "y": 11350,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "135e4de4bc217927",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux Lanthanides/Holmium.md",
+      "x": 9865,
+      "y": 11350,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "dcddf6cb8a7c78cc",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux Lanthanides/Europium.md",
+      "x": 8975,
+      "y": 11350,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "9feeb0d95f3ad0f0",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux Lanthanides/Lanthane.md",
+      "x": 10310,
+      "y": 11350,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "f8dcd7ecd1450a7b",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux de Transition/Cadmium.md",
+      "x": 8530,
+      "y": 12150,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "33374a9971038b04",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux de Transition/Cobalt.md",
+      "x": 9420,
+      "y": 12150,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "b5badc3ab761bb70",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux de Transition/Chrome.md",
+      "x": 8975,
+      "y": 12150,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "5f43cd40682d0370",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux de Transition/Copernicium.md",
+      "x": 9865,
+      "y": 12150,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "85b86901dc6abf8b",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux de Transition/Argent.md",
+      "x": 7640,
+      "y": 12150,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "fb28129aeb2b64ed",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux de Transition/Bohrium.md",
+      "x": 8085,
+      "y": 12150,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "092db59d90b20307",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux de Transition/Métaux de Transition.md",
+      "x": 6840,
+      "y": 12150,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "7b8555f7a2dabe8a",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Matériaux magique/Pierre de Mana.md",
+      "x": 3640,
+      "y": 13350,
+      "width": 400,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "8d7cc738184ad634",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Matériaux magique/Magnorium.md",
+      "x": 4920,
+      "y": 13350,
+      "width": 400,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "1d17a318a7edeccf",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Alcalino-terreux/Magnésium.md",
+      "x": 8975,
+      "y": 12950,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "4ebfa8d3857c7b63",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Alcalino-terreux/Calcium.md",
+      "x": 8530,
+      "y": 12950,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "41d9d4858d932db6",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Alcalino-terreux/Radium.md",
+      "x": 9420,
+      "y": 12950,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "6c6c1c01ceda510c",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Alcalino-terreux/Alcalino-terreux.md",
+      "x": 6840,
+      "y": 12950,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "c1d5ede1a0d11951",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Alcalino-terreux/Baryum.md",
+      "x": 7640,
+      "y": 12950,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "1417d16347f4a9e7",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Alcalino-terreux/Béryllium.md",
+      "x": 8085,
+      "y": 12950,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "a3bc93e163574904",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Alcalino-terreux/Strontium.md",
+      "x": 9865,
+      "y": 12950,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "8032e376df33c0ff",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux de Transition/Cuivre.md",
+      "x": 10310,
+      "y": 12150,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "d1143e378b4b3f87",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux Lanthanides/Lutétium.md",
+      "x": 10760,
+      "y": 11350,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "c4655afe3e064ff6",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux de Transition/Darmstadtium.md",
+      "x": 10755,
+      "y": 12150,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "f8efc6aeab1733e7",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux Lanthanides/Néodyme.md",
+      "x": 11205,
+      "y": 11350,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "c9a0ca447bdbf1b6",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux de Transition/Dubnium.md",
+      "x": 11200,
+      "y": 12150,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "1be724d02ee97111",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux de Transition/Fer.md",
+      "x": 11645,
+      "y": 12150,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "aaa02f54368844ab",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux Lanthanides/Prométhium.md",
+      "x": 12107,
+      "y": 11350,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "f37b046bf8bc3701",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux de Transition/Hafnium.md",
+      "x": 12099,
+      "y": 12150,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "fa6980267a6fd9e0",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux de Transition/Hassium.md",
+      "x": 12544,
+      "y": 12150,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "f332ce981699e58a",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux Lanthanides/Samarium.md",
+      "x": 12552,
+      "y": 11350,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "25c5ea2c2843748e",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux Lanthanides/Terbium.md",
+      "x": 12997,
+      "y": 11350,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "4e2d78220de9d802",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux de Transition/Iridium.md",
+      "x": 12989,
+      "y": 12150,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "75bbe9442356840f",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux de Transition/Manganèse.md",
+      "x": 13434,
+      "y": 12150,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "0d10aad93d7d348a",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux Lanthanides/Thulium.md",
+      "x": 13442,
+      "y": 11350,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "7b995307f914b5d9",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux de Transition/Meitnérium.md",
+      "x": 13879,
+      "y": 12150,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "799dcbd0277925f0",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux Lanthanides/Ytterbium.md",
+      "x": 13887,
+      "y": 11350,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e4ca4e5b24762afc",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux de Transition/Mercure.md",
+      "x": 14324,
+      "y": 12150,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "8817e22289b5b33c",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux de Transition/Molybdène.md",
+      "x": 14769,
+      "y": 12150,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "6dd6113e1ec6b1bc",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux de Transition/Nickel.md",
+      "x": 15214,
+      "y": 12150,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "89ce327be3b4a21c",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux de Transition/Niobium.md",
+      "x": 15659,
+      "y": 12150,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "2916aebc3388bc2c",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux de Transition/Or.md",
+      "x": 16104,
+      "y": 12150,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "5601509baf15cc36",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux de Transition/Osmium.md",
+      "x": 16549,
+      "y": 12150,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "6a24173e04313d37",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux de Transition/Palladium.md",
+      "x": 16994,
+      "y": 12150,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "b270f81c3fe665a5",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux de Transition/Platine.md",
+      "x": 17439,
+      "y": 12150,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "ec64e7421e466d3e",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux de Transition/Rhénium.md",
+      "x": 17884,
+      "y": 12150,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "3254154adebd6ae1",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux de Transition/Rhodium.md",
+      "x": 18329,
+      "y": 12150,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "268507cbd8aa6602",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux de Transition/Roentgenium.md",
+      "x": 18774,
+      "y": 12150,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "1636815c5878e11b",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Métaux de Transition/Ruténium.md",
+      "x": 19219,
+      "y": 12150,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "9fcdf978e196f177",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Matériaux magique/Mithril.md",
+      "x": 3920,
+      "y": 14000,
+      "width": 400,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "ce5e5bfb903cd446",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Matériaux magique/Orichalque.md",
+      "x": 4520,
+      "y": 14000,
+      "width": 400,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "62fd7c6de2103d03",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Pack terre/Matériaux magique/Adamantite.md",
+      "x": 4720,
+      "y": 15680,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e7bbd67b4dcf1628",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Primitive.md",
+      "x": 2600,
+      "y": 10550,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "a7c5bc5b345a53f7",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Sagesse.md",
+      "x": 2200,
+      "y": 10950,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "7de5da128b3ff117",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Cercle d'Eau.md",
+      "x": -6240,
+      "y": 1030,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e869e3b43fb156f1",
+      "type": "file",
+      "file": "Yume/Yume Pack/Pack Magie/Cercle des Ténèbres.md",
+      "x": -8000,
+      "y": -4140,
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "edges": [
+    {
+      "id": "dc00c816e7fc554d",
+      "fromNode": "8657bc91a1392aba",
+      "fromSide": "right",
+      "toNode": "4323be5431f497be",
+      "toSide": "top",
+      "color": "#000000"
+    },
+    {
+      "id": "014e392a9865e2e3",
+      "fromNode": "4323be5431f497be",
+      "fromSide": "bottom",
+      "toNode": "b1f33b21b75ed2c4",
+      "toSide": "right",
+      "color": "#000000"
+    },
+    {
+      "id": "ae69e3ca4b3c3795",
+      "fromNode": "b1f33b21b75ed2c4",
+      "fromSide": "left",
+      "toNode": "1e48b48d544476b3",
+      "toSide": "right",
+      "color": "#000000"
+    },
+    {
+      "id": "f79b8340eb1de304",
+      "fromNode": "1e48b48d544476b3",
+      "fromSide": "left",
+      "toNode": "f28ef22a05cadcd6",
+      "toSide": "bottom",
+      "color": "#000000"
+    },
+    {
+      "id": "571d01361880bcf0",
+      "fromNode": "8657bc91a1392aba",
+      "fromSide": "top",
+      "toNode": "28c61bf741b3c5da",
+      "toSide": "bottom",
+      "color": "6"
+    },
+    {
+      "id": "03b49435d9ba3e61",
+      "fromNode": "b1f33b21b75ed2c4",
+      "fromSide": "bottom",
+      "toNode": "3e08f524d188c178",
+      "toSide": "right",
+      "color": "6"
+    },
+    {
+      "id": "38ac54eb9ef0810d",
+      "fromNode": "8657bc91a1392aba",
+      "fromSide": "right",
+      "toNode": "4fabd59e6857b963",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "08238162be5aac77",
+      "fromNode": "b1f33b21b75ed2c4",
+      "fromSide": "bottom",
+      "toNode": "7de5da128b3ff117",
+      "toSide": "right",
+      "color": "6"
+    },
+    {
+      "id": "c55f436522049617",
+      "fromNode": "f28ef22a05cadcd6",
+      "fromSide": "left",
+      "toNode": "7de5da128b3ff117",
+      "toSide": "top",
+      "color": "6"
+    },
+    {
+      "id": "89bbb9236385adec",
+      "fromNode": "1e48b48d544476b3",
+      "fromSide": "bottom",
+      "toNode": "e869e3b43fb156f1",
+      "toSide": "bottom",
+      "color": "6"
+    },
+    {
+      "id": "639be5914968eb1f",
+      "fromNode": "f28ef22a05cadcd6",
+      "fromSide": "left",
+      "toNode": "e869e3b43fb156f1",
+      "toSide": "right",
+      "color": "6"
+    },
+    {
+      "id": "dba1a0ed5a6dbf74",
+      "fromNode": "b1f33b21b75ed2c4",
+      "fromSide": "bottom",
+      "toNode": "5c194b9b4b429a38",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "70ecede8d24c961c",
+      "fromNode": "8657bc91a1392aba",
+      "fromSide": "bottom",
+      "toNode": "5c194b9b4b429a38",
+      "toSide": "top",
+      "color": "6"
+    },
+    {
+      "id": "8cca44f719ee9f91",
+      "fromNode": "1e48b48d544476b3",
+      "fromSide": "bottom",
+      "toNode": "3e08f524d188c178",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "b9d36bd07822ee15",
+      "fromNode": "4323be5431f497be",
+      "fromSide": "top",
+      "toNode": "28c61bf741b3c5da",
+      "toSide": "right",
+      "color": "6"
+    },
+    {
+      "id": "10bf394a126dddc7",
+      "fromNode": "5c194b9b4b429a38",
+      "fromSide": "right",
+      "toNode": "8ca81425ab5c4c9a",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "cfc54af015272eea",
+      "fromNode": "5c194b9b4b429a38",
+      "fromSide": "right",
+      "toNode": "c738af22c086d10e",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "b0c4e7a08ebf5518",
+      "fromNode": "5c194b9b4b429a38",
+      "fromSide": "right",
+      "toNode": "edcbba9692611d57",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "3d8b123179486d0c",
+      "fromNode": "be35a1f6c9f524ea",
+      "fromSide": "right",
+      "toNode": "5edb6454eee323d9",
+      "toSide": "top",
+      "fromEnd": "arrow",
+      "color": "5"
+    },
+    {
+      "id": "2a7a7083cee62269",
+      "fromNode": "4c5dce9f49b047aa",
+      "fromSide": "right",
+      "toNode": "be35a1f6c9f524ea",
+      "toSide": "left",
+      "fromEnd": "arrow",
+      "color": "5"
+    },
+    {
+      "id": "2dbb5322b765546d",
+      "fromNode": "5b93fb0d97aa91aa",
+      "fromSide": "top",
+      "toNode": "5edb6454eee323d9",
+      "toSide": "bottom",
+      "color": "5"
+    },
+    {
+      "id": "5b8184c8134cb6fb",
+      "fromNode": "5b93fb0d97aa91aa",
+      "fromSide": "bottom",
+      "toNode": "11f5cca676375409",
+      "toSide": "right",
+      "color": "5"
+    },
+    {
+      "id": "ae412b0ee6d95269",
+      "fromNode": "2cfd8d98f1acc080",
+      "fromSide": "left",
+      "toNode": "5b93fb0d97aa91aa",
+      "toSide": "right",
+      "color": "5"
+    },
+    {
+      "id": "d0f5b334238c092f",
+      "fromNode": "11f5cca676375409",
+      "fromSide": "left",
+      "toNode": "ddf552c579a0f5de",
+      "toSide": "right",
+      "fromEnd": "arrow",
+      "color": "5"
+    },
+    {
+      "id": "7a13352563c36998",
+      "fromNode": "2cfd8d98f1acc080",
+      "fromSide": "left",
+      "toNode": "5edb6454eee323d9",
+      "toSide": "right",
+      "color": "5"
+    },
+    {
+      "id": "b89c846aa4e38cb9",
+      "fromNode": "74034d3d4eb31b5d",
+      "fromSide": "top",
+      "toNode": "4c5dce9f49b047aa",
+      "toSide": "left",
+      "fromEnd": "arrow",
+      "color": "5"
+    },
+    {
+      "id": "3e9a71cf9b03615a",
+      "fromNode": "ddf552c579a0f5de",
+      "fromSide": "left",
+      "toNode": "3ac079f5d8d8ccf5",
+      "toSide": "bottom",
+      "fromEnd": "arrow",
+      "color": "5"
+    },
+    {
+      "id": "74e72516302806c3",
+      "fromNode": "3ac079f5d8d8ccf5",
+      "fromSide": "top",
+      "toNode": "74034d3d4eb31b5d",
+      "toSide": "bottom",
+      "fromEnd": "arrow",
+      "color": "5"
+    },
+    {
+      "id": "61f79ecc1292fa73",
+      "fromNode": "f977f577e00dc0c7",
+      "fromSide": "right",
+      "toNode": "07f287b8b9408bd6",
+      "toSide": "top",
+      "color": "3"
+    },
+    {
+      "id": "0880ff6f4cbd5e7d",
+      "fromNode": "8618c5fe9946e671",
+      "fromSide": "top",
+      "toNode": "f977f577e00dc0c7",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "050bdfbb07bbcfc8",
+      "fromNode": "e05eea19ab5886c0",
+      "fromSide": "right",
+      "toNode": "07f287b8b9408bd6",
+      "toSide": "bottom",
+      "color": "3"
+    },
+    {
+      "id": "b55bbda22c0b9817",
+      "fromNode": "81368facee3a1772",
+      "fromSide": "right",
+      "toNode": "07f287b8b9408bd6",
+      "toSide": "left",
+      "color": "3"
+    },
+    {
+      "id": "449f53b4bea21208",
+      "fromNode": "2004ecc313d60f8c",
+      "fromSide": "right",
+      "toNode": "0bfc03a53fc430fe",
+      "toSide": "top",
+      "color": "5"
+    },
+    {
+      "id": "e135cf0040e1ea8a",
+      "fromNode": "2004ecc313d60f8c",
+      "fromSide": "right",
+      "toNode": "e147d5a37af4b0c0",
+      "toSide": "top",
+      "color": "5"
+    },
+    {
+      "id": "a68b531ab1d59dfa",
+      "fromNode": "2004ecc313d60f8c",
+      "fromSide": "right",
+      "toNode": "c79dd3ff58ce9956",
+      "toSide": "top",
+      "color": "5"
+    },
+    {
+      "id": "3ebb021da218466b",
+      "fromNode": "2004ecc313d60f8c",
+      "fromSide": "right",
+      "toNode": "c9f7bb9ed1e4d99c",
+      "toSide": "top",
+      "color": "5"
+    },
+    {
+      "id": "f17dcb71319ba85d",
+      "fromNode": "8618c5fe9946e671",
+      "fromSide": "top",
+      "toNode": "e05eea19ab5886c0",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "5db64e771402adac",
+      "fromNode": "8618c5fe9946e671",
+      "fromSide": "top",
+      "toNode": "81368facee3a1772",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "32c331135d623687",
+      "fromNode": "e147d5a37af4b0c0",
+      "fromSide": "bottom",
+      "toNode": "495a9cd9c7f1f0e7",
+      "toSide": "top",
+      "color": "5"
+    },
+    {
+      "id": "455f80a232e825cb",
+      "fromNode": "c79dd3ff58ce9956",
+      "fromSide": "bottom",
+      "toNode": "5de92b25fc6b26c1",
+      "toSide": "top",
+      "color": "5"
+    },
+    {
+      "id": "1c32f45e292b740a",
+      "fromNode": "495a9cd9c7f1f0e7",
+      "fromSide": "bottom",
+      "toNode": "22b615e1480bdbce",
+      "toSide": "top",
+      "color": "3"
+    },
+    {
+      "id": "dc38ef09c107da76",
+      "fromNode": "8618c5fe9946e671",
+      "fromSide": "top",
+      "toNode": "9244940b08cdc860",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "f74a862846e0dc3e",
+      "fromNode": "8618c5fe9946e671",
+      "fromSide": "top",
+      "toNode": "0fde45888efc1643",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "a7a1bda7de004d28",
+      "fromNode": "5de92b25fc6b26c1",
+      "fromSide": "bottom",
+      "toNode": "09b97b543940553e",
+      "toSide": "top",
+      "color": "3"
+    },
+    {
+      "id": "a099836b5ffef90c",
+      "fromNode": "b21935f89113be02",
+      "fromSide": "right",
+      "toNode": "22b615e1480bdbce",
+      "toSide": "left",
+      "color": "3"
+    },
+    {
+      "id": "94dc3aad0b74ed9b",
+      "fromNode": "09b97b543940553e",
+      "fromSide": "bottom",
+      "toNode": "d3304f4ba5c4d552",
+      "toSide": "top",
+      "color": "3"
+    },
+    {
+      "id": "37931090974225e5",
+      "fromNode": "0bfc03a53fc430fe",
+      "fromSide": "bottom",
+      "toNode": "b21935f89113be02",
+      "toSide": "top",
+      "color": "5"
+    },
+    {
+      "id": "e2dfa68a0f8c5dc1",
+      "fromNode": "b21935f89113be02",
+      "fromSide": "bottom",
+      "toNode": "3a6e3592e01a871e",
+      "toSide": "top",
+      "fromEnd": "arrow",
+      "color": "3"
+    },
+    {
+      "id": "2afb23861c748390",
+      "fromNode": "9244940b08cdc860",
+      "fromSide": "right",
+      "toNode": "e8c0b3adb560ba9b",
+      "toSide": "left",
+      "color": "3"
+    },
+    {
+      "id": "c5bb14251f35fcd1",
+      "fromNode": "0fde45888efc1643",
+      "fromSide": "right",
+      "toNode": "48ecd782b58a19dd",
+      "toSide": "left",
+      "color": "3"
+    },
+    {
+      "id": "1c6189a010eb8ead",
+      "fromNode": "c738af22c086d10e",
+      "fromSide": "bottom",
+      "toNode": "efff118350df701b",
+      "toSide": "top",
+      "color": "6"
+    },
+    {
+      "id": "f8b6558873327403",
+      "fromNode": "c738af22c086d10e",
+      "fromSide": "right",
+      "toNode": "d4588b7759761115",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "3a54b395fc542901",
+      "fromNode": "8ca81425ab5c4c9a",
+      "fromSide": "right",
+      "toNode": "f972f5a4a5af8112",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "f0f34e7a621cf504",
+      "fromNode": "ee657145bdcce85d",
+      "fromSide": "right",
+      "toNode": "9185ab1f85a7acba",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "90ca1086c3b14fc7",
+      "fromNode": "321fc3da28d96197",
+      "fromSide": "right",
+      "toNode": "ee657145bdcce85d",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "708c8e1993d65561",
+      "fromNode": "73c646b0fdf6acff",
+      "fromSide": "bottom",
+      "toNode": "ee657145bdcce85d",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "cbf9727135518d8f",
+      "fromNode": "9e29862250d05d91",
+      "fromSide": "right",
+      "toNode": "2417e9cd3785bc60",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "0bd9bd08cabdf741",
+      "fromNode": "11d3e12f8dd4a0f8",
+      "fromSide": "bottom",
+      "toNode": "9e29862250d05d91",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "ba00aaa98b852c86",
+      "fromNode": "321fc3da28d96197",
+      "fromSide": "right",
+      "toNode": "9e29862250d05d91",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "a6466a8bf1f7bf9d",
+      "fromNode": "09d0d26735293ebf",
+      "fromSide": "right",
+      "toNode": "0114442386649765",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "79c8123cc37ef49b",
+      "fromNode": "321fc3da28d96197",
+      "fromSide": "right",
+      "toNode": "09d0d26735293ebf",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "a87d3fcca8905031",
+      "fromNode": "092db59d90b20307",
+      "fromSide": "right",
+      "toNode": "85b86901dc6abf8b",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "0bf9d9598a8dafc9",
+      "fromNode": "e7bbd67b4dcf1628",
+      "fromSide": "bottom",
+      "toNode": "092db59d90b20307",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "dc39d69238df1049",
+      "fromNode": "321fc3da28d96197",
+      "fromSide": "right",
+      "toNode": "092db59d90b20307",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "30f8a448bc019094",
+      "fromNode": "a7c5bc5b345a53f7",
+      "fromSide": "bottom",
+      "toNode": "6c6c1c01ceda510c",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "c41fdc93518a0d1b",
+      "fromNode": "5f1affe5b3c3e642",
+      "fromSide": "left",
+      "toNode": "e96b654d54d1692c",
+      "toSide": "right"
+    },
+    {
+      "id": "811981c863c72301",
+      "fromNode": "5f1affe5b3c3e642",
+      "fromSide": "right",
+      "toNode": "01eebf377fb7a978",
+      "toSide": "left"
+    },
+    {
+      "id": "d9843e0aec0a22fc",
+      "fromNode": "e96b654d54d1692c",
+      "fromSide": "right",
+      "toNode": "5f1affe5b3c3e642",
+      "toSide": "left"
+    },
+    {
+      "id": "9ede7f59fa3fcfac",
+      "fromNode": "01eebf377fb7a978",
+      "fromSide": "left",
+      "toNode": "5f1affe5b3c3e642",
+      "toSide": "right"
+    },
+    {
+      "id": "7c827967517a3c04",
+      "fromNode": "01eebf377fb7a978",
+      "fromSide": "right",
+      "toNode": "bcf9b1b167fc2c8b",
+      "toSide": "left"
+    },
+    {
+      "id": "dd0ed18449994ab9",
+      "fromNode": "bcf9b1b167fc2c8b",
+      "fromSide": "left",
+      "toNode": "01eebf377fb7a978",
+      "toSide": "right"
+    },
+    {
+      "id": "9de7e55593868dbd",
+      "fromNode": "bcf9b1b167fc2c8b",
+      "fromSide": "right",
+      "toNode": "a1456a0765f9ce44",
+      "toSide": "left"
+    },
+    {
+      "id": "d92fdad0e4c28ccf",
+      "fromNode": "a1456a0765f9ce44",
+      "fromSide": "left",
+      "toNode": "bcf9b1b167fc2c8b",
+      "toSide": "right"
+    },
+    {
+      "id": "3e59463bca1ecf70",
+      "fromNode": "a1456a0765f9ce44",
+      "fromSide": "right",
+      "toNode": "2740f60a8fac9916",
+      "toSide": "left"
+    },
+    {
+      "id": "ce389303eb091c32",
+      "fromNode": "2740f60a8fac9916",
+      "fromSide": "left",
+      "toNode": "a1456a0765f9ce44",
+      "toSide": "right"
+    },
+    {
+      "id": "dec34a35bf0ffc68",
+      "fromNode": "72b068a967ea1726",
+      "fromSide": "left",
+      "toNode": "da05b352a05ca203",
+      "toSide": "right"
+    },
+    {
+      "id": "29a3080352995921",
+      "fromNode": "72b068a967ea1726",
+      "fromSide": "right",
+      "toNode": "179d9a0e0c436fd8",
+      "toSide": "left"
+    },
+    {
+      "id": "c73de6516e2e1649",
+      "fromNode": "da05b352a05ca203",
+      "fromSide": "right",
+      "toNode": "72b068a967ea1726",
+      "toSide": "left"
+    },
+    {
+      "id": "a9e797b6506e03ee",
+      "fromNode": "179d9a0e0c436fd8",
+      "fromSide": "left",
+      "toNode": "72b068a967ea1726",
+      "toSide": "right"
+    },
+    {
+      "id": "7a54d1f3cb8d8998",
+      "fromNode": "179d9a0e0c436fd8",
+      "fromSide": "right",
+      "toNode": "315f17d3bfefe335",
+      "toSide": "left"
+    },
+    {
+      "id": "9769c7b3bb16e352",
+      "fromNode": "315f17d3bfefe335",
+      "fromSide": "left",
+      "toNode": "179d9a0e0c436fd8",
+      "toSide": "right"
+    },
+    {
+      "id": "61cdb4d3382935f3",
+      "fromNode": "315f17d3bfefe335",
+      "fromSide": "right",
+      "toNode": "e96b654d54d1692c",
+      "toSide": "left"
+    },
+    {
+      "id": "a61b2f032b8b9e6e",
+      "fromNode": "e96b654d54d1692c",
+      "fromSide": "left",
+      "toNode": "315f17d3bfefe335",
+      "toSide": "right"
+    },
+    {
+      "id": "b369d8a372534b23",
+      "fromNode": "c9a0ca447bdbf1b6",
+      "fromSide": "left",
+      "toNode": "c4655afe3e064ff6",
+      "toSide": "right"
+    },
+    {
+      "id": "ff38d28397c82e5d",
+      "fromNode": "c9a0ca447bdbf1b6",
+      "fromSide": "right",
+      "toNode": "1be724d02ee97111",
+      "toSide": "left"
+    },
+    {
+      "id": "4926cb11527044ab",
+      "fromNode": "c4655afe3e064ff6",
+      "fromSide": "right",
+      "toNode": "c9a0ca447bdbf1b6",
+      "toSide": "left"
+    },
+    {
+      "id": "d7d050156c249088",
+      "fromNode": "1be724d02ee97111",
+      "fromSide": "left",
+      "toNode": "c9a0ca447bdbf1b6",
+      "toSide": "right"
+    },
+    {
+      "id": "d12860a033ed4a51",
+      "fromNode": "f8efc6aeab1733e7",
+      "fromSide": "left",
+      "toNode": "d1143e378b4b3f87",
+      "toSide": "right"
+    },
+    {
+      "id": "bd3df3bbbd3c759e",
+      "fromNode": "f8efc6aeab1733e7",
+      "fromSide": "right",
+      "toNode": "5c295e733f67c7db",
+      "toSide": "left"
+    },
+    {
+      "id": "85bb8fa9b16d8edf",
+      "fromNode": "d1143e378b4b3f87",
+      "fromSide": "right",
+      "toNode": "f8efc6aeab1733e7",
+      "toSide": "left"
+    },
+    {
+      "id": "1c563f03bbab43c5",
+      "fromNode": "5c295e733f67c7db",
+      "fromSide": "left",
+      "toNode": "f8efc6aeab1733e7",
+      "toSide": "right"
+    },
+    {
+      "id": "e7a790fc2806c036",
+      "fromNode": "1be724d02ee97111",
+      "fromSide": "right",
+      "toNode": "f37b046bf8bc3701",
+      "toSide": "left"
+    },
+    {
+      "id": "832f727add442a2a",
+      "fromNode": "f37b046bf8bc3701",
+      "fromSide": "left",
+      "toNode": "1be724d02ee97111",
+      "toSide": "right"
+    },
+    {
+      "id": "4fe62025b09444ed",
+      "fromNode": "5c295e733f67c7db",
+      "fromSide": "right",
+      "toNode": "aaa02f54368844ab",
+      "toSide": "left"
+    },
+    {
+      "id": "fe70f219b385deea",
+      "fromNode": "aaa02f54368844ab",
+      "fromSide": "left",
+      "toNode": "5c295e733f67c7db",
+      "toSide": "right"
+    },
+    {
+      "id": "cc26cc5e9ccac174",
+      "fromNode": "6dd6113e1ec6b1bc",
+      "fromSide": "left",
+      "toNode": "8817e22289b5b33c",
+      "toSide": "right"
+    },
+    {
+      "id": "4719423d6c3d26c2",
+      "fromNode": "6dd6113e1ec6b1bc",
+      "fromSide": "right",
+      "toNode": "89ce327be3b4a21c",
+      "toSide": "left"
+    },
+    {
+      "id": "e5fd2e7badd7e272",
+      "fromNode": "8817e22289b5b33c",
+      "fromSide": "right",
+      "toNode": "6dd6113e1ec6b1bc",
+      "toSide": "left"
+    },
+    {
+      "id": "4fb90fbc900d104c",
+      "fromNode": "89ce327be3b4a21c",
+      "fromSide": "left",
+      "toNode": "6dd6113e1ec6b1bc",
+      "toSide": "right"
+    },
+    {
+      "id": "0cdf9b8af40bb342",
+      "fromNode": "89ce327be3b4a21c",
+      "fromSide": "right",
+      "toNode": "2916aebc3388bc2c",
+      "toSide": "left"
+    },
+    {
+      "id": "108ee52ad0987ec3",
+      "fromNode": "2916aebc3388bc2c",
+      "fromSide": "left",
+      "toNode": "89ce327be3b4a21c",
+      "toSide": "right"
+    },
+    {
+      "id": "200d26b0f08da087",
+      "fromNode": "9feeb0d95f3ad0f0",
+      "fromSide": "right",
+      "toNode": "d1143e378b4b3f87",
+      "toSide": "left"
+    },
+    {
+      "id": "b3be605ebaf43bfe",
+      "fromNode": "9feeb0d95f3ad0f0",
+      "fromSide": "left",
+      "toNode": "135e4de4bc217927",
+      "toSide": "right"
+    },
+    {
+      "id": "efcc84aead8e2381",
+      "fromNode": "135e4de4bc217927",
+      "fromSide": "right",
+      "toNode": "9feeb0d95f3ad0f0",
+      "toSide": "left"
+    },
+    {
+      "id": "6e3e31454bd8ea57",
+      "fromNode": "d1143e378b4b3f87",
+      "fromSide": "left",
+      "toNode": "9feeb0d95f3ad0f0",
+      "toSide": "right"
+    },
+    {
+      "id": "9f9e2838ad92da75",
+      "fromNode": "8032e376df33c0ff",
+      "fromSide": "left",
+      "toNode": "5f43cd40682d0370",
+      "toSide": "right"
+    },
+    {
+      "id": "b689b37873fd6c31",
+      "fromNode": "8032e376df33c0ff",
+      "fromSide": "right",
+      "toNode": "c4655afe3e064ff6",
+      "toSide": "left"
+    },
+    {
+      "id": "781a0ee71ed8dad2",
+      "fromNode": "5f43cd40682d0370",
+      "fromSide": "right",
+      "toNode": "8032e376df33c0ff",
+      "toSide": "left"
+    },
+    {
+      "id": "8f0ebdf893cb3026",
+      "fromNode": "c4655afe3e064ff6",
+      "fromSide": "left",
+      "toNode": "8032e376df33c0ff",
+      "toSide": "right"
+    },
+    {
+      "id": "7cf40adf76dd6f8d",
+      "fromNode": "0114442386649765",
+      "fromSide": "right",
+      "toNode": "f87a4f2b831246c0",
+      "toSide": "left"
+    },
+    {
+      "id": "8b778d9ac5edb1c4",
+      "fromNode": "f87a4f2b831246c0",
+      "fromSide": "left",
+      "toNode": "0114442386649765",
+      "toSide": "right"
+    },
+    {
+      "id": "c50c10adac2267e3",
+      "fromNode": "85b86901dc6abf8b",
+      "fromSide": "right",
+      "toNode": "fb28129aeb2b64ed",
+      "toSide": "left"
+    },
+    {
+      "id": "42f0f8686c9415d8",
+      "fromNode": "fb28129aeb2b64ed",
+      "fromSide": "left",
+      "toNode": "85b86901dc6abf8b",
+      "toSide": "right"
+    },
+    {
+      "id": "07787ac4c9c9a404",
+      "fromNode": "f87a4f2b831246c0",
+      "fromSide": "right",
+      "toNode": "19f81fb27938e384",
+      "toSide": "left"
+    },
+    {
+      "id": "d4ef35fdd15e70d0",
+      "fromNode": "19f81fb27938e384",
+      "fromSide": "left",
+      "toNode": "f87a4f2b831246c0",
+      "toSide": "right"
+    },
+    {
+      "id": "b085b504a4c6e819",
+      "fromNode": "19f81fb27938e384",
+      "fromSide": "right",
+      "toNode": "dcddf6cb8a7c78cc",
+      "toSide": "left"
+    },
+    {
+      "id": "3bfb316004794073",
+      "fromNode": "dcddf6cb8a7c78cc",
+      "fromSide": "left",
+      "toNode": "19f81fb27938e384",
+      "toSide": "right"
+    },
+    {
+      "id": "a3176f602fe8089f",
+      "fromNode": "f8dcd7ecd1450a7b",
+      "fromSide": "right",
+      "toNode": "b5badc3ab761bb70",
+      "toSide": "left"
+    },
+    {
+      "id": "6eb44a2dc1376591",
+      "fromNode": "f8dcd7ecd1450a7b",
+      "fromSide": "left",
+      "toNode": "fb28129aeb2b64ed",
+      "toSide": "right"
+    },
+    {
+      "id": "5d81581d7d08197b",
+      "fromNode": "b5badc3ab761bb70",
+      "fromSide": "left",
+      "toNode": "f8dcd7ecd1450a7b",
+      "toSide": "right"
+    },
+    {
+      "id": "ad56f256527f0e89",
+      "fromNode": "fb28129aeb2b64ed",
+      "fromSide": "right",
+      "toNode": "f8dcd7ecd1450a7b",
+      "toSide": "left"
+    },
+    {
+      "id": "92e10a5695e8793b",
+      "fromNode": "5ba79c2cd726c098",
+      "fromSide": "right",
+      "toNode": "68832a1b7a3756bc",
+      "toSide": "left"
+    },
+    {
+      "id": "6dcd29de5089e61b",
+      "fromNode": "5ba79c2cd726c098",
+      "fromSide": "left",
+      "toNode": "a9d45cc5ac34bde4",
+      "toSide": "right"
+    },
+    {
+      "id": "0be258843187117d",
+      "fromNode": "a9d45cc5ac34bde4",
+      "fromSide": "right",
+      "toNode": "5ba79c2cd726c098",
+      "toSide": "left"
+    },
+    {
+      "id": "9683507bb3961ca9",
+      "fromNode": "68832a1b7a3756bc",
+      "fromSide": "left",
+      "toNode": "5ba79c2cd726c098",
+      "toSide": "right"
+    },
+    {
+      "id": "d5445460885fab06",
+      "fromNode": "dcddf6cb8a7c78cc",
+      "fromSide": "right",
+      "toNode": "7adea7d95eff9b24",
+      "toSide": "left"
+    },
+    {
+      "id": "486ebbe5629f6582",
+      "fromNode": "7adea7d95eff9b24",
+      "fromSide": "left",
+      "toNode": "dcddf6cb8a7c78cc",
+      "toSide": "right"
+    },
+    {
+      "id": "0f392aa2f9be3835",
+      "fromNode": "a3b0c032d4db7218",
+      "fromSide": "left",
+      "toNode": "db5fe9c4db8621f3",
+      "toSide": "right"
+    },
+    {
+      "id": "be70c2fb1ea3cbfc",
+      "fromNode": "a3b0c032d4db7218",
+      "fromSide": "right",
+      "toNode": "d624b2cbef7537f9",
+      "toSide": "left"
+    },
+    {
+      "id": "f499eda076c503b5",
+      "fromNode": "db5fe9c4db8621f3",
+      "fromSide": "right",
+      "toNode": "a3b0c032d4db7218",
+      "toSide": "left"
+    },
+    {
+      "id": "d4c71156068a9ce3",
+      "fromNode": "d624b2cbef7537f9",
+      "fromSide": "left",
+      "toNode": "a3b0c032d4db7218",
+      "toSide": "right"
+    },
+    {
+      "id": "08a795618ad4285c",
+      "fromNode": "68832a1b7a3756bc",
+      "fromSide": "right",
+      "toNode": "b64b790bb0b282c2",
+      "toSide": "left"
+    },
+    {
+      "id": "9aaf9180c24904d9",
+      "fromNode": "b64b790bb0b282c2",
+      "fromSide": "left",
+      "toNode": "68832a1b7a3756bc",
+      "toSide": "right"
+    },
+    {
+      "id": "788615732582e100",
+      "fromNode": "7adea7d95eff9b24",
+      "fromSide": "right",
+      "toNode": "135e4de4bc217927",
+      "toSide": "left"
+    },
+    {
+      "id": "0be8a6812f82d210",
+      "fromNode": "135e4de4bc217927",
+      "fromSide": "left",
+      "toNode": "7adea7d95eff9b24",
+      "toSide": "right"
+    },
+    {
+      "id": "d2fddc58e753ba6e",
+      "fromNode": "d6fc286e8340e19f",
+      "fromSide": "right",
+      "toNode": "45a92f9a4102b2f0",
+      "toSide": "left"
+    },
+    {
+      "id": "54d2609037205d2f",
+      "fromNode": "d6fc286e8340e19f",
+      "fromSide": "left",
+      "toNode": "7bd3be91b134852f",
+      "toSide": "right"
+    },
+    {
+      "id": "b3414bb5baf1b692",
+      "fromNode": "7bd3be91b134852f",
+      "fromSide": "right",
+      "toNode": "d6fc286e8340e19f",
+      "toSide": "left"
+    },
+    {
+      "id": "c37ea8b461a49c50",
+      "fromNode": "45a92f9a4102b2f0",
+      "fromSide": "left",
+      "toNode": "d6fc286e8340e19f",
+      "toSide": "right"
+    },
+    {
+      "id": "3a16dc01946ba96f",
+      "fromNode": "45a92f9a4102b2f0",
+      "fromSide": "right",
+      "toNode": "044319bd2a02b7ed",
+      "toSide": "left"
+    },
+    {
+      "id": "8dfcb6f63e798e89",
+      "fromNode": "044319bd2a02b7ed",
+      "fromSide": "left",
+      "toNode": "45a92f9a4102b2f0",
+      "toSide": "right"
+    },
+    {
+      "id": "62da014dc62db243",
+      "fromNode": "044319bd2a02b7ed",
+      "fromSide": "right",
+      "toNode": "dfe65e80abe13409",
+      "toSide": "left"
+    },
+    {
+      "id": "28db0a1cb2118f70",
+      "fromNode": "dfe65e80abe13409",
+      "fromSide": "left",
+      "toNode": "044319bd2a02b7ed",
+      "toSide": "right"
+    },
+    {
+      "id": "7729e3c16ac886f6",
+      "fromNode": "dfe65e80abe13409",
+      "fromSide": "right",
+      "toNode": "95d0a29616f1b30b",
+      "toSide": "left"
+    },
+    {
+      "id": "6f798e7e184b8169",
+      "fromNode": "95d0a29616f1b30b",
+      "fromSide": "left",
+      "toNode": "dfe65e80abe13409",
+      "toSide": "right"
+    },
+    {
+      "id": "e8c964a08a798335",
+      "fromNode": "e34d4a46ce9ebd1f",
+      "fromSide": "right",
+      "toNode": "75f233606543196c",
+      "toSide": "left"
+    },
+    {
+      "id": "f4630d55c8f6f52a",
+      "fromNode": "e34d4a46ce9ebd1f",
+      "fromSide": "left",
+      "toNode": "5d2df6ca81478f11",
+      "toSide": "right"
+    },
+    {
+      "id": "ce461f6ea4c589fb",
+      "fromNode": "75f233606543196c",
+      "fromSide": "left",
+      "toNode": "e34d4a46ce9ebd1f",
+      "toSide": "right"
+    },
+    {
+      "id": "86e6646abb8202c8",
+      "fromNode": "5d2df6ca81478f11",
+      "fromSide": "right",
+      "toNode": "e34d4a46ce9ebd1f",
+      "toSide": "left"
+    },
+    {
+      "id": "ed61051d6e5225d3",
+      "fromNode": "95d0a29616f1b30b",
+      "fromSide": "right",
+      "toNode": "5d2df6ca81478f11",
+      "toSide": "left"
+    },
+    {
+      "id": "1eee66aaaeced35c",
+      "fromNode": "5d2df6ca81478f11",
+      "fromSide": "left",
+      "toNode": "95d0a29616f1b30b",
+      "toSide": "right"
+    },
+    {
+      "id": "970eb599527b27a0",
+      "fromNode": "9185ab1f85a7acba",
+      "fromSide": "right",
+      "toNode": "219a99e67a17581b",
+      "toSide": "left"
+    },
+    {
+      "id": "bf4ebf4f05cdc077",
+      "fromNode": "219a99e67a17581b",
+      "fromSide": "left",
+      "toNode": "9185ab1f85a7acba",
+      "toSide": "right"
+    },
+    {
+      "id": "1bed2015b74d93a9",
+      "fromNode": "219a99e67a17581b",
+      "fromSide": "right",
+      "toNode": "7bd3be91b134852f",
+      "toSide": "left"
+    },
+    {
+      "id": "d7f1160c75a74a72",
+      "fromNode": "7bd3be91b134852f",
+      "fromSide": "left",
+      "toNode": "219a99e67a17581b",
+      "toSide": "right"
+    },
+    {
+      "id": "8b1ed6a87082b048",
+      "fromNode": "a9d45cc5ac34bde4",
+      "fromSide": "left",
+      "toNode": "b46bf06c379fd646",
+      "toSide": "right"
+    },
+    {
+      "id": "9ea8ed809dc750e7",
+      "fromNode": "b46bf06c379fd646",
+      "fromSide": "right",
+      "toNode": "a9d45cc5ac34bde4",
+      "toSide": "left"
+    },
+    {
+      "id": "d17da1edacd87106",
+      "fromNode": "b46bf06c379fd646",
+      "fromSide": "left",
+      "toNode": "2417e9cd3785bc60",
+      "toSide": "right"
+    },
+    {
+      "id": "c9aa9b13dfaa3c1e",
+      "fromNode": "2417e9cd3785bc60",
+      "fromSide": "right",
+      "toNode": "b46bf06c379fd646",
+      "toSide": "left"
+    },
+    {
+      "id": "36b22b48e6f9ddc2",
+      "fromNode": "f37b046bf8bc3701",
+      "fromSide": "right",
+      "toNode": "fa6980267a6fd9e0",
+      "toSide": "left"
+    },
+    {
+      "id": "e7e5510a675ffc22",
+      "fromNode": "fa6980267a6fd9e0",
+      "fromSide": "left",
+      "toNode": "f37b046bf8bc3701",
+      "toSide": "right"
+    },
+    {
+      "id": "873df253b891b1ee",
+      "fromNode": "75bbe9442356840f",
+      "fromSide": "left",
+      "toNode": "4e2d78220de9d802",
+      "toSide": "right"
+    },
+    {
+      "id": "55fa4c9c7a958b6f",
+      "fromNode": "75bbe9442356840f",
+      "fromSide": "right",
+      "toNode": "7b995307f914b5d9",
+      "toSide": "left"
+    },
+    {
+      "id": "f6437240e75befea",
+      "fromNode": "4e2d78220de9d802",
+      "fromSide": "right",
+      "toNode": "75bbe9442356840f",
+      "toSide": "left"
+    },
+    {
+      "id": "0640de817f2dbbcf",
+      "fromNode": "7b995307f914b5d9",
+      "fromSide": "left",
+      "toNode": "75bbe9442356840f",
+      "toSide": "right"
+    },
+    {
+      "id": "72bdde21d016ff74",
+      "fromNode": "7b995307f914b5d9",
+      "fromSide": "right",
+      "toNode": "e4ca4e5b24762afc",
+      "toSide": "left"
+    },
+    {
+      "id": "2f51e363cb107a14",
+      "fromNode": "e4ca4e5b24762afc",
+      "fromSide": "left",
+      "toNode": "7b995307f914b5d9",
+      "toSide": "right"
+    },
+    {
+      "id": "68309abc1294186b",
+      "fromNode": "799dcbd0277925f0",
+      "fromSide": "left",
+      "toNode": "0d10aad93d7d348a",
+      "toSide": "right"
+    },
+    {
+      "id": "9389897717988ee5",
+      "fromNode": "0d10aad93d7d348a",
+      "fromSide": "right",
+      "toNode": "799dcbd0277925f0",
+      "toSide": "left"
+    },
+    {
+      "id": "92a9500252d466cf",
+      "fromNode": "aaa02f54368844ab",
+      "fromSide": "right",
+      "toNode": "f332ce981699e58a",
+      "toSide": "left"
+    },
+    {
+      "id": "fa3613081ed936f4",
+      "fromNode": "f332ce981699e58a",
+      "fromSide": "left",
+      "toNode": "aaa02f54368844ab",
+      "toSide": "right"
+    },
+    {
+      "id": "fb413d187326f5a7",
+      "fromNode": "75f233606543196c",
+      "fromSide": "right",
+      "toNode": "539ff0b19939f50f",
+      "toSide": "left"
+    },
+    {
+      "id": "2acef5afef3a7683",
+      "fromNode": "539ff0b19939f50f",
+      "fromSide": "left",
+      "toNode": "75f233606543196c",
+      "toSide": "right"
+    },
+    {
+      "id": "546646e87fdb4866",
+      "fromNode": "539ff0b19939f50f",
+      "fromSide": "right",
+      "toNode": "db5fe9c4db8621f3",
+      "toSide": "left"
+    },
+    {
+      "id": "bf77fe967cca2d81",
+      "fromNode": "db5fe9c4db8621f3",
+      "fromSide": "left",
+      "toNode": "539ff0b19939f50f",
+      "toSide": "right"
+    },
+    {
+      "id": "784cdc2d70f5fef4",
+      "fromNode": "6a24173e04313d37",
+      "fromSide": "right",
+      "toNode": "b270f81c3fe665a5",
+      "toSide": "left"
+    },
+    {
+      "id": "493ee387e7452884",
+      "fromNode": "6a24173e04313d37",
+      "fromSide": "left",
+      "toNode": "5601509baf15cc36",
+      "toSide": "right"
+    },
+    {
+      "id": "5e70916aa995a928",
+      "fromNode": "5601509baf15cc36",
+      "fromSide": "right",
+      "toNode": "6a24173e04313d37",
+      "toSide": "left"
+    },
+    {
+      "id": "4e37e577e8a1d57e",
+      "fromNode": "b270f81c3fe665a5",
+      "fromSide": "left",
+      "toNode": "6a24173e04313d37",
+      "toSide": "right"
+    },
+    {
+      "id": "455cbe938fcc96c1",
+      "fromNode": "b270f81c3fe665a5",
+      "fromSide": "right",
+      "toNode": "ec64e7421e466d3e",
+      "toSide": "left"
+    },
+    {
+      "id": "20447afa0cfec5ea",
+      "fromNode": "ec64e7421e466d3e",
+      "fromSide": "left",
+      "toNode": "b270f81c3fe665a5",
+      "toSide": "right"
+    },
+    {
+      "id": "0602fce13354f48b",
+      "fromNode": "33374a9971038b04",
+      "fromSide": "left",
+      "toNode": "b5badc3ab761bb70",
+      "toSide": "right"
+    },
+    {
+      "id": "02f842eb39d6dde9",
+      "fromNode": "33374a9971038b04",
+      "fromSide": "right",
+      "toNode": "5f43cd40682d0370",
+      "toSide": "left"
+    },
+    {
+      "id": "f46e710ec8793ac7",
+      "fromNode": "b5badc3ab761bb70",
+      "fromSide": "right",
+      "toNode": "33374a9971038b04",
+      "toSide": "left"
+    },
+    {
+      "id": "832f428bbb41633b",
+      "fromNode": "5f43cd40682d0370",
+      "fromSide": "left",
+      "toNode": "33374a9971038b04",
+      "toSide": "right"
+    },
+    {
+      "id": "8d8d46695b06bb97",
+      "fromNode": "41d9d4858d932db6",
+      "fromSide": "right",
+      "toNode": "a3bc93e163574904",
+      "toSide": "left"
+    },
+    {
+      "id": "4d2f9456cb23adb1",
+      "fromNode": "1d17a318a7edeccf",
+      "fromSide": "right",
+      "toNode": "41d9d4858d932db6",
+      "toSide": "right"
+    },
+    {
+      "id": "5de3d88591b8e5ef",
+      "fromNode": "1d17a318a7edeccf",
+      "fromSide": "right",
+      "toNode": "41d9d4858d932db6",
+      "toSide": "left"
+    },
+    {
+      "id": "b2ca8e9ca9df5441",
+      "fromNode": "e06a407e8406242d",
+      "fromSide": "left",
+      "toNode": "1636815c5878e11b",
+      "toSide": "right"
+    },
+    {
+      "id": "fd6f0904b415c6f8",
+      "fromNode": "e06a407e8406242d",
+      "fromSide": "right",
+      "toNode": "da05b352a05ca203",
+      "toSide": "left"
+    },
+    {
+      "id": "5a0634e355283fde",
+      "fromNode": "1636815c5878e11b",
+      "fromSide": "right",
+      "toNode": "e06a407e8406242d",
+      "toSide": "left"
+    },
+    {
+      "id": "868e2456aaa56a85",
+      "fromNode": "da05b352a05ca203",
+      "fromSide": "left",
+      "toNode": "e06a407e8406242d",
+      "toSide": "right"
+    },
+    {
+      "id": "5a9185b8898d22ba",
+      "fromNode": "ec64e7421e466d3e",
+      "fromSide": "right",
+      "toNode": "3254154adebd6ae1",
+      "toSide": "left"
+    },
+    {
+      "id": "62f2fc4c3fc78a71",
+      "fromNode": "3254154adebd6ae1",
+      "fromSide": "left",
+      "toNode": "ec64e7421e466d3e",
+      "toSide": "right"
+    },
+    {
+      "id": "dc0a625cefa83a21",
+      "fromNode": "3254154adebd6ae1",
+      "fromSide": "right",
+      "toNode": "268507cbd8aa6602",
+      "toSide": "left"
+    },
+    {
+      "id": "bb9ae27cc46cb3dc",
+      "fromNode": "268507cbd8aa6602",
+      "fromSide": "left",
+      "toNode": "3254154adebd6ae1",
+      "toSide": "left"
+    },
+    {
+      "id": "add6962721d3b39b",
+      "fromNode": "268507cbd8aa6602",
+      "fromSide": "left",
+      "toNode": "3254154adebd6ae1",
+      "toSide": "right"
+    },
+    {
+      "id": "e257c2467aea9b3c",
+      "fromNode": "268507cbd8aa6602",
+      "fromSide": "right",
+      "toNode": "1636815c5878e11b",
+      "toSide": "left"
+    },
+    {
+      "id": "5e7a7816e03fc532",
+      "fromNode": "1636815c5878e11b",
+      "fromSide": "left",
+      "toNode": "268507cbd8aa6602",
+      "toSide": "right"
+    },
+    {
+      "id": "632325051a724dde",
+      "fromNode": "e4ca4e5b24762afc",
+      "fromSide": "right",
+      "toNode": "8817e22289b5b33c",
+      "toSide": "left"
+    },
+    {
+      "id": "d4684c29947ce9f1",
+      "fromNode": "8817e22289b5b33c",
+      "fromSide": "left",
+      "toNode": "e4ca4e5b24762afc",
+      "toSide": "right"
+    },
+    {
+      "id": "49dd85a2d3b99168",
+      "fromNode": "2916aebc3388bc2c",
+      "fromSide": "right",
+      "toNode": "5601509baf15cc36",
+      "toSide": "left"
+    },
+    {
+      "id": "5f8682381aa51897",
+      "fromNode": "5601509baf15cc36",
+      "fromSide": "left",
+      "toNode": "2916aebc3388bc2c",
+      "toSide": "right"
+    },
+    {
+      "id": "464aac9f9d157c96",
+      "fromNode": "fa6980267a6fd9e0",
+      "fromSide": "right",
+      "toNode": "4e2d78220de9d802",
+      "toSide": "left"
+    },
+    {
+      "id": "3a2c311db5a78c1d",
+      "fromNode": "4e2d78220de9d802",
+      "fromSide": "left",
+      "toNode": "fa6980267a6fd9e0",
+      "toSide": "right"
+    },
+    {
+      "id": "832dfd97aaee3ca4",
+      "fromNode": "25c5ea2c2843748e",
+      "fromSide": "left",
+      "toNode": "f332ce981699e58a",
+      "toSide": "right"
+    },
+    {
+      "id": "5eff29df21d69993",
+      "fromNode": "25c5ea2c2843748e",
+      "fromSide": "right",
+      "toNode": "0d10aad93d7d348a",
+      "toSide": "left"
+    },
+    {
+      "id": "83ba9fadcea53888",
+      "fromNode": "f332ce981699e58a",
+      "fromSide": "right",
+      "toNode": "25c5ea2c2843748e",
+      "toSide": "left"
+    },
+    {
+      "id": "d32b3d23ee1bed7d",
+      "fromNode": "0d10aad93d7d348a",
+      "fromSide": "left",
+      "toNode": "25c5ea2c2843748e",
+      "toSide": "right"
+    },
+    {
+      "id": "f0d84d10afb22f89",
+      "fromNode": "6c6c1c01ceda510c",
+      "fromSide": "right",
+      "toNode": "c1d5ede1a0d11951",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "2b40f0c223a1b7fd",
+      "fromNode": "321fc3da28d96197",
+      "fromSide": "right",
+      "toNode": "6c6c1c01ceda510c",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "c679fad987d4086f",
+      "fromNode": "c1d5ede1a0d11951",
+      "fromSide": "right",
+      "toNode": "1417d16347f4a9e7",
+      "toSide": "left"
+    },
+    {
+      "id": "2310da0abdd0cbad",
+      "fromNode": "1417d16347f4a9e7",
+      "fromSide": "left",
+      "toNode": "c1d5ede1a0d11951",
+      "toSide": "right"
+    },
+    {
+      "id": "4fa1eb3be348fbfd",
+      "fromNode": "1d17a318a7edeccf",
+      "fromSide": "left",
+      "toNode": "4ebfa8d3857c7b63",
+      "toSide": "right"
+    },
+    {
+      "id": "3f7cf9369085b6aa",
+      "fromNode": "4ebfa8d3857c7b63",
+      "fromSide": "right",
+      "toNode": "1d17a318a7edeccf",
+      "toSide": "right"
+    },
+    {
+      "id": "29c7ba48f878fc7e",
+      "fromNode": "4ebfa8d3857c7b63",
+      "fromSide": "right",
+      "toNode": "1d17a318a7edeccf",
+      "toSide": "left"
+    },
+    {
+      "id": "6cb2958171eb435c",
+      "fromNode": "1417d16347f4a9e7",
+      "fromSide": "right",
+      "toNode": "4ebfa8d3857c7b63",
+      "toSide": "left"
+    },
+    {
+      "id": "47cdb91955bb31af",
+      "fromNode": "4ebfa8d3857c7b63",
+      "fromSide": "left",
+      "toNode": "1417d16347f4a9e7",
+      "toSide": "right"
+    },
+    {
+      "id": "9751673307fe54a6",
+      "fromNode": "edcbba9692611d57",
+      "fromSide": "right",
+      "toNode": "321fc3da28d96197",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "b2559755e8587f79",
+      "fromNode": "8618c5fe9946e671",
+      "fromSide": "left",
+      "toNode": "2cfd8d98f1acc080",
+      "toSide": "top",
+      "color": "5"
+    },
+    {
+      "id": "7a3b2ab2acfe9891",
+      "fromNode": "8657bc91a1392aba",
+      "fromSide": "right",
+      "toNode": "f972f5a4a5af8112",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "ed54a4c4444f8899",
+      "fromNode": "b1f33b21b75ed2c4",
+      "fromSide": "right",
+      "toNode": "f972f5a4a5af8112",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "f66e3c56478ea7c9",
+      "fromNode": "b1f33b21b75ed2c4",
+      "fromSide": "bottom",
+      "toNode": "dce4e7faa17c61a6",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "88c7b837b21a49ec",
+      "fromNode": "f28ef22a05cadcd6",
+      "fromSide": "right",
+      "toNode": "6928cd6f1b107518",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "ef7946aef8cc721a",
+      "fromNode": "dce4e7faa17c61a6",
+      "fromSide": "bottom",
+      "toNode": "d4588b7759761115",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "1336eb9fe644f099",
+      "fromNode": "08f1a3390acabfec",
+      "fromSide": "bottom",
+      "toNode": "d4588b7759761115",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "825623ecd798cb35",
+      "fromNode": "6928cd6f1b107518",
+      "fromSide": "bottom",
+      "toNode": "d4588b7759761115",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "ef4f33188fa132ce",
+      "fromNode": "8657bc91a1392aba",
+      "fromSide": "bottom",
+      "toNode": "08f1a3390acabfec",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "e0e954e0077006dd",
+      "fromNode": "08f1a3390acabfec",
+      "fromSide": "bottom",
+      "toNode": "efff118350df701b",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "5d0dc2551ceb32e5",
+      "fromNode": "dce4e7faa17c61a6",
+      "fromSide": "bottom",
+      "toNode": "efff118350df701b",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "b247e7df4893b7f4",
+      "fromNode": "667dd5fee7e5ed36",
+      "fromSide": "bottom",
+      "toNode": "efff118350df701b",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "6197a12bd96be151",
+      "fromNode": "f54ee9756bb3f124",
+      "fromSide": "bottom",
+      "toNode": "09d0d26735293ebf",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "9813a1ecd3873316",
+      "fromNode": "667dd5fee7e5ed36",
+      "fromSide": "bottom",
+      "toNode": "11d3e12f8dd4a0f8",
+      "toSide": "top",
+      "color": "1"
+    },
+    {
+      "id": "641453aa316dc5fd",
+      "fromNode": "08f1a3390acabfec",
+      "fromSide": "bottom",
+      "toNode": "f54ee9756bb3f124",
+      "toSide": "top",
+      "color": "1"
+    },
+    {
+      "id": "25ddfcb68a5d5ed4",
+      "fromNode": "6928cd6f1b107518",
+      "fromSide": "bottom",
+      "toNode": "e7bbd67b4dcf1628",
+      "toSide": "top",
+      "color": "1"
+    },
+    {
+      "id": "e6c609cd05a69343",
+      "fromNode": "dce4e7faa17c61a6",
+      "fromSide": "bottom",
+      "toNode": "a7c5bc5b345a53f7",
+      "toSide": "top",
+      "color": "1"
+    },
+    {
+      "id": "d45cc08a870e86ad",
+      "fromNode": "1e48b48d544476b3",
+      "fromSide": "bottom",
+      "toNode": "73c646b0fdf6acff",
+      "toSide": "top",
+      "color": "1"
+    },
+    {
+      "id": "0d7bcfd3a8eb812c",
+      "fromNode": "4323be5431f497be",
+      "fromSide": "right",
+      "toNode": "4fabd59e6857b963",
+      "toSide": "bottom",
+      "color": "6"
+    },
+    {
+      "id": "bd2240258d92d335",
+      "fromNode": "4323be5431f497be",
+      "fromSide": "bottom",
+      "toNode": "667dd5fee7e5ed36",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "1f76fc84df5624db",
+      "fromNode": "bf39c956d656b3bc",
+      "fromSide": "top",
+      "toNode": "8657bc91a1392aba",
+      "toSide": "bottom"
+    },
+    {
+      "id": "bfdca17492569e26",
+      "fromNode": "edcbba9692611d57",
+      "fromSide": "bottom",
+      "toNode": "2af7af809045820c",
+      "toSide": "top",
+      "color": "6"
+    },
+    {
+      "id": "d86ac4496f29f45e",
+      "fromNode": "2af7af809045820c",
+      "fromSide": "left",
+      "toNode": "7b8555f7a2dabe8a",
+      "toSide": "top",
+      "color": "5"
+    },
+    {
+      "id": "3b829a81ce80d28a",
+      "fromNode": "2af7af809045820c",
+      "fromSide": "right",
+      "toNode": "8d7cc738184ad634",
+      "toSide": "top",
+      "color": "5"
+    },
+    {
+      "id": "15b3414b4434a885",
+      "fromNode": "2af7af809045820c",
+      "fromSide": "bottom",
+      "toNode": "9fcdf978e196f177",
+      "toSide": "top",
+      "color": "5"
+    },
+    {
+      "id": "41a37d295a37ecd3",
+      "fromNode": "2af7af809045820c",
+      "fromSide": "bottom",
+      "toNode": "ce5e5bfb903cd446",
+      "toSide": "top",
+      "color": "5"
+    }
+  ],
+  "metadata": {}
+}

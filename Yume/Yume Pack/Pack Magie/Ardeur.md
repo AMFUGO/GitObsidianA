@@ -1,0 +1,1 @@
+L'ardeur ce désigne a partir d'un triangle.

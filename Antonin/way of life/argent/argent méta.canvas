@@ -1,0 +1,236 @@
+{
+  "nodes": [
+    {
+      "id": "876417df70798996",
+      "type": "file",
+      "file": "Antonin/way of life/argent/argent méta.md",
+      "x": -123,
+      "y": -29,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "531935cc927db9fb",
+      "type": "file",
+      "file": "Antonin/way of life/argent/Vente numérique.md",
+      "x": 1477,
+      "y": -29,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "a844c3582048229d",
+      "type": "file",
+      "file": "Antonin/way of life/argent/Livre.md",
+      "x": 1477,
+      "y": -829,
+      "width": 400,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "1f9d0fb0818fc0c4",
+      "type": "file",
+      "file": "Antonin/way of life/argent/App mobile.md",
+      "x": 2277,
+      "y": -29,
+      "width": 400,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "dfd41609b0edc066",
+      "type": "file",
+      "file": "Antonin/way of life/argent/Youtube.md",
+      "x": 1477,
+      "y": 771,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "7d1754f808631e0e",
+      "type": "file",
+      "file": "Antonin/way of life/argent/Vente de produit 3D.md",
+      "x": 2277,
+      "y": 771,
+      "width": 400,
+      "height": 400,
+      "color": "3"
+    },
+    {
+      "id": "02a4256b37de35bd",
+      "type": "file",
+      "file": "Antonin/way of life/argent/Lien d'affiliation.md",
+      "x": 1477,
+      "y": 1571,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "16f39861f8db0fe6",
+      "type": "file",
+      "file": "Antonin/way of life/argent/Vente physique.md",
+      "x": -1723,
+      "y": -29,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "ae1e3e6b9bf4bcb6",
+      "type": "file",
+      "file": "Antonin/way of life/argent/Taser.md",
+      "x": -1723,
+      "y": -829,
+      "width": 400,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "80e0177a1e5ef29f",
+      "type": "file",
+      "file": "Antonin/way of life/argent/Livre de poche.md",
+      "x": -2523,
+      "y": -29,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "af201db353fe8e5a",
+      "type": "file",
+      "file": "Antonin/way of life/argent/Only fan.md",
+      "x": 1877,
+      "y": 2371,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "8c78b2ea4291b1d9",
+      "type": "file",
+      "file": "Antonin/way of life/argent/Roblox game.md",
+      "x": 3077,
+      "y": 371,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "69d5e3f88b268589",
+      "x": 640,
+      "y": 771,
+      "width": 400,
+      "height": 400,
+      "type": "file",
+      "file": "Antonin/way of life/argent/Tiktoks.md"
+    }
+  ],
+  "edges": [
+    {
+      "id": "a50ce11854c2390b",
+      "fromNode": "876417df70798996",
+      "fromSide": "right",
+      "toNode": "531935cc927db9fb",
+      "toSide": "left"
+    },
+    {
+      "id": "bf1cd9646b1773e8",
+      "fromNode": "531935cc927db9fb",
+      "fromSide": "top",
+      "toNode": "a844c3582048229d",
+      "toSide": "bottom"
+    },
+    {
+      "id": "580e4ba83bd9e158",
+      "fromNode": "531935cc927db9fb",
+      "fromSide": "right",
+      "toNode": "1f9d0fb0818fc0c4",
+      "toSide": "left"
+    },
+    {
+      "id": "1641a4bb0be7bf0b",
+      "fromNode": "531935cc927db9fb",
+      "fromSide": "bottom",
+      "toNode": "dfd41609b0edc066",
+      "toSide": "top"
+    },
+    {
+      "id": "58d92c3dc8fc65f0",
+      "fromNode": "dfd41609b0edc066",
+      "fromSide": "bottom",
+      "toNode": "02a4256b37de35bd",
+      "toSide": "top"
+    },
+    {
+      "id": "5bf80b9b2b5f9d1b",
+      "fromNode": "dfd41609b0edc066",
+      "fromSide": "right",
+      "toNode": "7d1754f808631e0e",
+      "toSide": "left"
+    },
+    {
+      "id": "096ae78752249319",
+      "fromNode": "1f9d0fb0818fc0c4",
+      "fromSide": "bottom",
+      "toNode": "7d1754f808631e0e",
+      "toSide": "top"
+    },
+    {
+      "id": "6c7fa39d5ecaa365",
+      "fromNode": "876417df70798996",
+      "fromSide": "left",
+      "toNode": "16f39861f8db0fe6",
+      "toSide": "right"
+    },
+    {
+      "id": "774c848be98921a0",
+      "fromNode": "16f39861f8db0fe6",
+      "fromSide": "top",
+      "toNode": "ae1e3e6b9bf4bcb6",
+      "toSide": "bottom"
+    },
+    {
+      "id": "211f7b9d8b59580d",
+      "fromNode": "16f39861f8db0fe6",
+      "fromSide": "left",
+      "toNode": "80e0177a1e5ef29f",
+      "toSide": "right"
+    },
+    {
+      "id": "14356fadb3976568",
+      "fromNode": "02a4256b37de35bd",
+      "fromSide": "left",
+      "toNode": "80e0177a1e5ef29f",
+      "toSide": "bottom"
+    },
+    {
+      "id": "85f3b0f25cc0a6dc",
+      "fromNode": "531935cc927db9fb",
+      "fromSide": "right",
+      "toNode": "af201db353fe8e5a",
+      "toSide": "top"
+    },
+    {
+      "id": "60ea8923eff6304d",
+      "fromNode": "531935cc927db9fb",
+      "fromSide": "bottom",
+      "toNode": "8c78b2ea4291b1d9",
+      "toSide": "left"
+    },
+    {
+      "id": "e9252ad51148ef70",
+      "fromNode": "dfd41609b0edc066",
+      "fromSide": "left",
+      "toNode": "69d5e3f88b268589",
+      "toSide": "right"
+    },
+    {
+      "id": "505ec1d576733031",
+      "fromNode": "69d5e3f88b268589",
+      "fromSide": "bottom",
+      "toNode": "80e0177a1e5ef29f",
+      "toSide": "bottom"
+    }
+  ],
+  "metadata": {}
+}

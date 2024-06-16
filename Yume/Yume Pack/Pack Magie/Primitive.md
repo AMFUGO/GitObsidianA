@@ -1,0 +1,1 @@
+La Primitive est désignée par le heptagone, seul le nombre de cotée importe, certain changement apporte le lots d'avantage et inconvénient. 

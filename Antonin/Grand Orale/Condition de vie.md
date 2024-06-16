@@ -1,0 +1,1 @@
+Les abeille vive dans un environnement complexe favorisant leur disparition, ainsi leur condition de vie reflète leur besoins pour survivre, cela correspond aux besoins basique de nourriture et d'eau mais, sous de nouvelle contrainte a cause du réchauffement climatique qui amène a condition extrème

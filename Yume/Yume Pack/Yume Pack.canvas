@@ -1,0 +1,765 @@
+{
+  "nodes": [
+    {
+      "id": "5550451590b0914d",
+      "type": "file",
+      "file": "Yume/Yume Chapitres/★ Yume 1 Début sans souvenir.md",
+      "x": 440,
+      "y": -102,
+      "width": 400,
+      "height": 400,
+      "color": "#e100ff"
+    },
+    {
+      "id": "d1d088565af7cca9",
+      "type": "file",
+      "file": "Yume/Yume Chapitres/★ Yume 2 Journée dans un monde nouveaux.md",
+      "x": 920,
+      "y": -102,
+      "width": 400,
+      "height": 400,
+      "color": "#e100ff"
+    },
+    {
+      "id": "10cab8ab5d2f1f57",
+      "type": "file",
+      "file": "Yume/Yume Chapitres/★ Yume 3 Une malédiction étrange.md",
+      "x": 1400,
+      "y": -102,
+      "width": 400,
+      "height": 400,
+      "color": "#e100ff"
+    },
+    {
+      "id": "226d7c737df5e8ae",
+      "type": "file",
+      "file": "Yume/Yume Chapitres/★ Yume 4 Ce chat il est maudit.md",
+      "x": 1880,
+      "y": -102,
+      "width": 400,
+      "height": 400,
+      "color": "#e100ff"
+    },
+    {
+      "id": "4041f3dbde0fbf9a",
+      "type": "file",
+      "file": "Yume/Yume Chapitres/★ Yume 5 De nombreuse magie différente.md",
+      "x": 2360,
+      "y": -102,
+      "width": 400,
+      "height": 400,
+      "color": "#e100ff"
+    },
+    {
+      "id": "f66957e10bbf3db2",
+      "type": "file",
+      "file": "Yume/Yume Chapitres/★ Yume 6 Une rentrés scolaire.md",
+      "x": 2840,
+      "y": -102,
+      "width": 400,
+      "height": 400,
+      "color": "#e100ff"
+    },
+    {
+      "id": "576ad06f41badf52",
+      "type": "file",
+      "file": "Yume/Yume Chapitres/★ Yume 7 Un premier cours et un nouvelle ami.md",
+      "x": 3320,
+      "y": -102,
+      "width": 400,
+      "height": 400,
+      "color": "#e100ff"
+    },
+    {
+      "id": "e39d1a2dc9fb40f6",
+      "type": "file",
+      "file": "Yume/Yume Chapitres/★ Yume 8 Pratique de la magie.md",
+      "x": 3800,
+      "y": -102,
+      "width": 400,
+      "height": 400,
+      "color": "#e100ff"
+    },
+    {
+      "id": "0955135b1c2c5575",
+      "type": "file",
+      "file": "Yume/Yume Chapitres/★ Yume 9 Dodo et héro.md",
+      "x": 4280,
+      "y": -102,
+      "width": 400,
+      "height": 400,
+      "color": "#e100ff"
+    },
+    {
+      "id": "2853f65890ba33a7",
+      "type": "file",
+      "file": "Yume/Yume Chapitres/★ Yume 10 Beaucoup d'information.md",
+      "x": 4760,
+      "y": -102,
+      "width": 400,
+      "height": 400,
+      "color": "#e100ff"
+    },
+    {
+      "id": "46e31f7161034ab4",
+      "type": "file",
+      "file": "Yume/Yume Chapitres/★ Yume 11 Bonne nouvelle....md",
+      "x": 5240,
+      "y": -102,
+      "width": 400,
+      "height": 400,
+      "color": "#e100ff"
+    },
+    {
+      "id": "a45970fda6c13c5e",
+      "type": "file",
+      "file": "Yume/Yume Chapitres/★ Yume 12 Une grotte remplie de cookie.md",
+      "x": 5720,
+      "y": -102,
+      "width": 400,
+      "height": 400,
+      "color": "#e100ff"
+    },
+    {
+      "id": "db5e221a750962a9",
+      "type": "file",
+      "file": "Yume/Yume Chapitres/★ Yume 13 Quelle que cookie plus tard.md",
+      "x": 6200,
+      "y": -102,
+      "width": 400,
+      "height": 400,
+      "color": "#e100ff"
+    },
+    {
+      "id": "3eba03dafb5b5568",
+      "type": "file",
+      "file": "Yume/Yume Chapitres/★ Yume 14 Bonjour l'infirmière, Bonjour la banquière..md",
+      "x": 6680,
+      "y": -102,
+      "width": 400,
+      "height": 400,
+      "color": "#e100ff"
+    },
+    {
+      "id": "1df3b08311ca7bf8",
+      "type": "file",
+      "file": "Yume/Yume Chapitres/★ Yume 15 Dernier repo....md",
+      "x": 7160,
+      "y": -102,
+      "width": 400,
+      "height": 400,
+      "color": "#e100ff"
+    },
+    {
+      "id": "5b4ad896121c153f",
+      "type": "file",
+      "file": "Yume/Yume Picture/Personnages/Yume/Yume retenue.png",
+      "x": -360,
+      "y": -1526,
+      "width": 400,
+      "height": 400,
+      "color": "#e100ff"
+    },
+    {
+      "id": "0fbbb66b7cd7916a",
+      "type": "file",
+      "file": "Yume/Yume Picture/Personnages/Kōri/Kōri retenue.jpg",
+      "x": 40,
+      "y": -1726,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "2155162bdcfa1d2a",
+      "type": "file",
+      "file": "Yume/Yume Picture/Personnages/Hifumi/Hifumi retenue.png",
+      "x": 440,
+      "y": -1920,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "9dcdcb09d57b8268",
+      "type": "file",
+      "file": "Yume/Yume Picture/Personnages/Akira/Akira retenue.png",
+      "x": 840,
+      "y": -1720,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "c526ce04ecf3d6d3",
+      "type": "file",
+      "file": "Yume/Yume Picture/Personnages/Ayame/Ayame retenue.png",
+      "x": 1240,
+      "y": -1520,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "cec045323d37eb8e",
+      "type": "file",
+      "file": "Yume/Yume Pack/Personnage N°2.md",
+      "x": 1400,
+      "y": 640,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "7bd40ccb05881f35",
+      "type": "file",
+      "file": "Yume/Yume Pack/Personnage N°1.md",
+      "x": 440,
+      "y": -800,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "c1a5e6b19e1b5054",
+      "type": "file",
+      "file": "Yume/Yume Pack/Personnage N°3.md",
+      "x": 2840,
+      "y": -800,
+      "width": 400,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "9043e8cc6a640713",
+      "type": "file",
+      "file": "Yume/Yume Pack/Histoire/Héro Karukaritsu.md",
+      "x": 4280,
+      "y": 640,
+      "width": 400,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "a41728580f3e070e",
+      "type": "file",
+      "file": "Yume/Yume Pack/Histoire/Jours 0.md",
+      "x": 4760,
+      "y": 1360,
+      "width": 400,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "c28e0ebc03003bd3",
+      "type": "file",
+      "file": "Yume/Yume On File/Yume Saison et événement.md",
+      "x": 4760,
+      "y": 640,
+      "width": 400,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "ea07f42bd234f71d",
+      "type": "file",
+      "file": "Yume/Yume Pack/Marque.md",
+      "x": 4760,
+      "y": -800,
+      "width": 400,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "bbbdcf62cbe6a300",
+      "type": "file",
+      "file": "Yume/Yume Under File/Plante/Champignon bioluminescent.md",
+      "x": 5720,
+      "y": 640,
+      "width": 400,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "548c884fb4da81dd",
+      "type": "file",
+      "file": "Yume/Yume Pack/Jeux.md",
+      "x": 7160,
+      "y": 640,
+      "width": 400,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "672594bcd9930a6f",
+      "type": "file",
+      "file": "Yume/Yume Picture/Personnages/Yurime/Yurime retenue.png",
+      "x": 3320,
+      "y": 640,
+      "width": 400,
+      "height": 400,
+      "color": "#e100ff"
+    },
+    {
+      "id": "4bb2e9df40b2957d",
+      "type": "file",
+      "file": "Yume/Yume Picture/Personnages/Kurai kokoro/Kurai kokoro aled.jpg",
+      "x": 1400,
+      "y": 1680,
+      "width": 400,
+      "height": 400,
+      "color": "#e100ff"
+    },
+    {
+      "id": "b303907cb9a96ac6",
+      "type": "file",
+      "file": "Yume/Yume Picture/Personnages/Kurai kokoro/Kurai kokoro 5.jpg",
+      "x": 1000,
+      "y": 1599,
+      "width": 400,
+      "height": 400,
+      "color": "#e100ff"
+    },
+    {
+      "id": "5f762fec0f39f2ee",
+      "type": "file",
+      "file": "Yume/Yume Picture/Personnages/Kurai kokoro/Kurai kokoro retenue.jpg",
+      "x": 600,
+      "y": 1399,
+      "width": 400,
+      "height": 400,
+      "color": "#e100ff"
+    },
+    {
+      "id": "0311885c64aaa334",
+      "type": "file",
+      "file": "Yume/Yume Picture/Personnages/Kurai kokoro/Kurai kokoro 2.jpg",
+      "x": 200,
+      "y": 1120,
+      "width": 400,
+      "height": 400,
+      "color": "#e100ff"
+    },
+    {
+      "id": "4913c99c8ac9350d",
+      "type": "file",
+      "file": "Yume/Yume Picture/Personnages/Kurai kokoro/Kurai kokoro 4.jpg",
+      "x": 1800,
+      "y": 1599,
+      "width": 400,
+      "height": 400,
+      "color": "#e100ff"
+    },
+    {
+      "id": "c39885f7950bfee8",
+      "type": "file",
+      "file": "Yume/Yume Picture/Personnages/Kurai kokoro/Kurai kokoro 3.jpg",
+      "x": 2200,
+      "y": 1399,
+      "width": 400,
+      "height": 400,
+      "color": "#e100ff"
+    },
+    {
+      "id": "3cf8fbb7dcf84022",
+      "type": "file",
+      "file": "Yume/Yume Picture/Personnages/Kurai kokoro/Kurai kokoro 1.jpg",
+      "x": 2600,
+      "y": 1199,
+      "width": 400,
+      "height": 400,
+      "color": "#e100ff"
+    },
+    {
+      "id": "3b145f8fdc585b99",
+      "type": "file",
+      "file": "Yume/Yume On File/Yume lors Kurai kokoro.md",
+      "x": -400,
+      "y": 640,
+      "width": 400,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "a1806ea3b2327fd5",
+      "type": "file",
+      "file": "Yume/Yume Picture/Personnages/Tiberius/Mr.Tiberius.jpg",
+      "x": 2840,
+      "y": -1920,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "5896743aaa5ca9be",
+      "type": "file",
+      "file": "Yume/Yume Pack/Histoire.md",
+      "x": -1920,
+      "y": 520,
+      "width": 640,
+      "height": 600,
+      "color": "#ff0000"
+    },
+    {
+      "id": "d68a1744f60454cf",
+      "type": "file",
+      "file": "Yume/Yume Pack/Monde.md",
+      "x": -1920,
+      "y": -900,
+      "width": 640,
+      "height": 600,
+      "color": "#ff0000"
+    },
+    {
+      "id": "17f172d2167e2c26",
+      "type": "file",
+      "file": "Yume/Yume Picture/Environement/Cartes/Map Monde.jpg",
+      "x": -1962,
+      "y": -2270,
+      "width": 725,
+      "height": 544,
+      "color": "5"
+    },
+    {
+      "id": "f1b0472cf010ba1b",
+      "type": "file",
+      "file": "Yume/Yume Chapitres/★ Yume 16 Le chat dans le sac.md",
+      "x": 7640,
+      "y": -102,
+      "width": 400,
+      "height": 400,
+      "color": "#ff00ff"
+    },
+    {
+      "id": "2a27b14f916ed8b0",
+      "type": "file",
+      "file": "Yume/Yume Chapitres/★ Yume 17 Confusion du champignon.md",
+      "x": 8136,
+      "y": -102,
+      "width": 400,
+      "height": 400,
+      "color": "#ff00ff"
+    },
+    {
+      "id": "6511708795a45f0e",
+      "type": "file",
+      "file": "Yume/Yume Chapitres/★ Yume 18 Champignon et argile.md",
+      "x": 8600,
+      "y": -102,
+      "width": 400,
+      "height": 400,
+      "color": "#ff00ff"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3150fe80cc9f386f",
+      "fromNode": "5550451590b0914d",
+      "fromSide": "right",
+      "toNode": "d1d088565af7cca9",
+      "toSide": "left"
+    },
+    {
+      "id": "d51766986b821599",
+      "fromNode": "d1d088565af7cca9",
+      "fromSide": "right",
+      "toNode": "10cab8ab5d2f1f57",
+      "toSide": "left"
+    },
+    {
+      "id": "1215b92adaa7302f",
+      "fromNode": "10cab8ab5d2f1f57",
+      "fromSide": "right",
+      "toNode": "226d7c737df5e8ae",
+      "toSide": "left"
+    },
+    {
+      "id": "155b73971ab9fa89",
+      "fromNode": "226d7c737df5e8ae",
+      "fromSide": "right",
+      "toNode": "4041f3dbde0fbf9a",
+      "toSide": "left"
+    },
+    {
+      "id": "95b91170070eec01",
+      "fromNode": "4041f3dbde0fbf9a",
+      "fromSide": "right",
+      "toNode": "f66957e10bbf3db2",
+      "toSide": "left"
+    },
+    {
+      "id": "d2466477efd22ed9",
+      "fromNode": "f66957e10bbf3db2",
+      "fromSide": "right",
+      "toNode": "576ad06f41badf52",
+      "toSide": "left"
+    },
+    {
+      "id": "841dc11fb1ee3933",
+      "fromNode": "576ad06f41badf52",
+      "fromSide": "right",
+      "toNode": "e39d1a2dc9fb40f6",
+      "toSide": "left"
+    },
+    {
+      "id": "7cf8bb1a595c47d6",
+      "fromNode": "e39d1a2dc9fb40f6",
+      "fromSide": "right",
+      "toNode": "0955135b1c2c5575",
+      "toSide": "left"
+    },
+    {
+      "id": "6095d43c00ef5454",
+      "fromNode": "0955135b1c2c5575",
+      "fromSide": "right",
+      "toNode": "2853f65890ba33a7",
+      "toSide": "left"
+    },
+    {
+      "id": "33742e07b08bfa36",
+      "fromNode": "2853f65890ba33a7",
+      "fromSide": "right",
+      "toNode": "46e31f7161034ab4",
+      "toSide": "left"
+    },
+    {
+      "id": "907c591a224ef04d",
+      "fromNode": "46e31f7161034ab4",
+      "fromSide": "right",
+      "toNode": "a45970fda6c13c5e",
+      "toSide": "left"
+    },
+    {
+      "id": "59e2b0b69d7232ec",
+      "fromNode": "a45970fda6c13c5e",
+      "fromSide": "right",
+      "toNode": "db5e221a750962a9",
+      "toSide": "left"
+    },
+    {
+      "id": "a92398dffc3fee39",
+      "fromNode": "db5e221a750962a9",
+      "fromSide": "right",
+      "toNode": "3eba03dafb5b5568",
+      "toSide": "left"
+    },
+    {
+      "id": "fce6b6889a0c2b88",
+      "fromNode": "3eba03dafb5b5568",
+      "fromSide": "right",
+      "toNode": "1df3b08311ca7bf8",
+      "toSide": "left"
+    },
+    {
+      "id": "442680242e3d0e52",
+      "fromNode": "f66957e10bbf3db2",
+      "fromSide": "top",
+      "toNode": "c1a5e6b19e1b5054",
+      "toSide": "bottom"
+    },
+    {
+      "id": "f276ccc156da1313",
+      "fromNode": "10cab8ab5d2f1f57",
+      "fromSide": "bottom",
+      "toNode": "cec045323d37eb8e",
+      "toSide": "top"
+    },
+    {
+      "id": "754fbf1ae16efda9",
+      "fromNode": "5550451590b0914d",
+      "fromSide": "top",
+      "toNode": "7bd40ccb05881f35",
+      "toSide": "bottom"
+    },
+    {
+      "id": "db68308b054d59c7",
+      "fromNode": "7bd40ccb05881f35",
+      "fromSide": "left",
+      "toNode": "5b4ad896121c153f",
+      "toSide": "bottom"
+    },
+    {
+      "id": "bbceb610756760b8",
+      "fromNode": "7bd40ccb05881f35",
+      "fromSide": "left",
+      "toNode": "0fbbb66b7cd7916a",
+      "toSide": "bottom"
+    },
+    {
+      "id": "4760822a79ac2b88",
+      "fromNode": "7bd40ccb05881f35",
+      "fromSide": "top",
+      "toNode": "2155162bdcfa1d2a",
+      "toSide": "bottom"
+    },
+    {
+      "id": "cb8195da903165b3",
+      "fromNode": "7bd40ccb05881f35",
+      "fromSide": "right",
+      "toNode": "9dcdcb09d57b8268",
+      "toSide": "bottom"
+    },
+    {
+      "id": "7efb159eab29d2f1",
+      "fromNode": "7bd40ccb05881f35",
+      "fromSide": "right",
+      "toNode": "c526ce04ecf3d6d3",
+      "toSide": "bottom"
+    },
+    {
+      "id": "badc01960cf4ab3a",
+      "fromNode": "5896743aaa5ca9be",
+      "fromSide": "top",
+      "toNode": "d68a1744f60454cf",
+      "toSide": "bottom",
+      "fromEnd": "arrow"
+    },
+    {
+      "id": "cc5e3a14a3938eee",
+      "fromNode": "0955135b1c2c5575",
+      "fromSide": "bottom",
+      "toNode": "9043e8cc6a640713",
+      "toSide": "top"
+    },
+    {
+      "id": "158d9b7386b3c93d",
+      "fromNode": "2853f65890ba33a7",
+      "fromSide": "bottom",
+      "toNode": "c28e0ebc03003bd3",
+      "toSide": "top"
+    },
+    {
+      "id": "9c0f584ba8b61b8b",
+      "fromNode": "c28e0ebc03003bd3",
+      "fromSide": "bottom",
+      "toNode": "a41728580f3e070e",
+      "toSide": "top"
+    },
+    {
+      "id": "b275c819c57ceb7a",
+      "fromNode": "2853f65890ba33a7",
+      "fromSide": "top",
+      "toNode": "ea07f42bd234f71d",
+      "toSide": "bottom"
+    },
+    {
+      "id": "3033227d43f341bb",
+      "fromNode": "a45970fda6c13c5e",
+      "fromSide": "bottom",
+      "toNode": "bbbdcf62cbe6a300",
+      "toSide": "top"
+    },
+    {
+      "id": "1c6f62015918cdfd",
+      "fromNode": "1df3b08311ca7bf8",
+      "fromSide": "bottom",
+      "toNode": "548c884fb4da81dd",
+      "toSide": "top"
+    },
+    {
+      "id": "d7036a2d1b09c4b9",
+      "fromNode": "576ad06f41badf52",
+      "fromSide": "bottom",
+      "toNode": "672594bcd9930a6f",
+      "toSide": "top"
+    },
+    {
+      "id": "fafe6e063681ce3a",
+      "fromNode": "cec045323d37eb8e",
+      "fromSide": "left",
+      "toNode": "0311885c64aaa334",
+      "toSide": "top"
+    },
+    {
+      "id": "ff0d6d2ec3b83ede",
+      "fromNode": "cec045323d37eb8e",
+      "fromSide": "left",
+      "toNode": "5f762fec0f39f2ee",
+      "toSide": "top"
+    },
+    {
+      "id": "f704ebe42fc2bb4b",
+      "fromNode": "cec045323d37eb8e",
+      "fromSide": "right",
+      "toNode": "3cf8fbb7dcf84022",
+      "toSide": "top"
+    },
+    {
+      "id": "2995a06ca0449267",
+      "fromNode": "cec045323d37eb8e",
+      "fromSide": "right",
+      "toNode": "c39885f7950bfee8",
+      "toSide": "top"
+    },
+    {
+      "id": "f81fcc79bde96ff0",
+      "fromNode": "cec045323d37eb8e",
+      "fromSide": "bottom",
+      "toNode": "b303907cb9a96ac6",
+      "toSide": "top"
+    },
+    {
+      "id": "9a679efa9c1671fa",
+      "fromNode": "cec045323d37eb8e",
+      "fromSide": "bottom",
+      "toNode": "4bb2e9df40b2957d",
+      "toSide": "top"
+    },
+    {
+      "id": "af0622eb726dfe24",
+      "fromNode": "cec045323d37eb8e",
+      "fromSide": "bottom",
+      "toNode": "4913c99c8ac9350d",
+      "toSide": "top"
+    },
+    {
+      "id": "ab6f8448a8180c12",
+      "fromNode": "cec045323d37eb8e",
+      "fromSide": "left",
+      "toNode": "3b145f8fdc585b99",
+      "toSide": "right"
+    },
+    {
+      "id": "a41390f0c5fd8b36",
+      "fromNode": "c1a5e6b19e1b5054",
+      "fromSide": "top",
+      "toNode": "a1806ea3b2327fd5",
+      "toSide": "bottom"
+    },
+    {
+      "id": "cc11e7f8f1289962",
+      "fromNode": "3b145f8fdc585b99",
+      "fromSide": "left",
+      "toNode": "5896743aaa5ca9be",
+      "toSide": "right"
+    },
+    {
+      "id": "35a00fa8b5a64747",
+      "fromNode": "d68a1744f60454cf",
+      "fromSide": "top",
+      "toNode": "17f172d2167e2c26",
+      "toSide": "bottom"
+    },
+    {
+      "id": "7d9dfc8cc2d3d985",
+      "fromNode": "1df3b08311ca7bf8",
+      "fromSide": "right",
+      "toNode": "f1b0472cf010ba1b",
+      "toSide": "left"
+    },
+    {
+      "id": "77041a9a45d64aa8",
+      "fromNode": "f1b0472cf010ba1b",
+      "fromSide": "right",
+      "toNode": "2a27b14f916ed8b0",
+      "toSide": "left"
+    },
+    {
+      "id": "186cbdaf8736ec02",
+      "fromNode": "2a27b14f916ed8b0",
+      "fromSide": "right",
+      "toNode": "6511708795a45f0e",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}

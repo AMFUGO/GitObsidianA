@@ -1,0 +1,53 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Obsidian",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showStarredFiles": false,
+  "showRecentFiles": false,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "Yume/Yume Picture/Personnages/Yurime/Yurime retenue.png",
+      "timestamp": 1714944448389
+    },
+    {
+      "filepath": "Yume/Yume Picture/Personnages/Hifumi/Hifumi retenue.png",
+      "timestamp": 1714944443832
+    },
+    {
+      "filepath": "Yume/Yume Picture/Personnages/Akane/Akane.png",
+      "timestamp": 1714944437591
+    },
+    {
+      "filepath": "Antonin/Manwha.md",
+      "timestamp": 1714848909489
+    },
+    {
+      "filepath": "Antonin/Antonin.md",
+      "timestamp": 1714848906478
+    }
+  ],
+  "starredFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false
+}

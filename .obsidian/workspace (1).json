@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "0099400d1ba75c30",
+    "type": "split",
+    "children": [
+      {
+        "id": "41310a6c50a29995",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b27347a7cb593ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reve/Shift/Yume Part 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c5f9eed6bee4c60f",
+    "type": "split",
+    "children": [
+      {
+        "id": "98ab9c2371d8038d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16aa146fba4f280c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "82f2c77d763c8fef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6436ace399e5c6e8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "c408e9534f539cf3",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b18a2ff2808a820",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "868c6ba7a4d509da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Reve/Shift/Yume Part 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0ed40c6f15b64aee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Reve/Shift/Yume Part 2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0a7bad9beab3c18c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "45208b9cf1bf3090",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Reve/Shift/Yume Part 2.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2b27347a7cb593ea",
+  "lastOpenFiles": [
+    "Reve/Shift/Yume Part 2.md",
+    "Reve/Shift/Yume Part 1.md",
+    "Autre/Image/Map.png",
+    "Autre/Antonin.md",
+    "Autre/Anime.md",
+    "Pasted image 20221204223035.png",
+    "Reve/Journale des reve.md",
+    "Reve/Shift/Yume Part 2 (conflict 2022-12-06-06-48-17).md",
+    "ici.md",
+    "Autre/mot de passe.md"
+  ]
+}

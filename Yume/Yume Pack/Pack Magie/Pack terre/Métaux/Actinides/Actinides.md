@@ -1,0 +1,17 @@
+### Métaux Actinides :
+
+1. [[Actinium]]
+2. [[Thorium]]
+3. [[Protactinium]]
+4. [[Uranium]]
+5. [[Neptunium]]
+6. [[Plutonium]]
+7. [[Américium]]
+8. [[Curium]]
+9. [[Berkélium]]
+10. [[Californium]]
+11. [[Einsteinium]]
+12. [[Fermium]]
+13. [[Mendélévium]]
+14. [[Nobelium]]
+15. [[Lawrencium]]

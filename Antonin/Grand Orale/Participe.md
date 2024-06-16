@@ -1,0 +1,1 @@
+Participe désigne le lien entre la biométrie et la gestion, puisque la biométrie permet de connaitre sous forme de valeur numérique les donnée des individu cela permet a l'apiculteur par exemple d'avoir un contrôle de loin.

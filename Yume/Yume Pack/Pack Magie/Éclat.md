@@ -1,0 +1,1 @@
+L'Éclat ce désigne a partir d'un carrée, mais est particulièrement plus puissant sous forme de losange.

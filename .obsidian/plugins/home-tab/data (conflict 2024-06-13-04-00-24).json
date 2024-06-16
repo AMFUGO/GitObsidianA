@@ -1,0 +1,54 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Bonsoire.",
+  "customFont": "custom",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showStarredFiles": false,
+  "showRecentFiles": true,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "Antonin/Antonin.md",
+      "timestamp": 1718146311267
+    },
+    {
+      "filepath": "Yume/Yume On File/Yume SV.md",
+      "timestamp": 1718107512691
+    },
+    {
+      "filepath": "Yume/Yume Under File/Aventurier.md",
+      "timestamp": 1718107497893
+    },
+    {
+      "filepath": "Yume/Yume Pack/Pack Magie/Magie.canvas",
+      "timestamp": 1718106904842
+    },
+    {
+      "filepath": "Yume/Yume On File/Yume idée.md",
+      "timestamp": 1718106814441
+    }
+  ],
+  "starredFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false,
+  "font": "Carlito"
+}
