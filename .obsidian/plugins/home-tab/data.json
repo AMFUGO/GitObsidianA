@@ -22,7 +22,12 @@
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": false,
-  "recentFilesStore": [],
+  "recentFilesStore": [
+    {
+      "filepath": "Antonin/Recette de cookie.md",
+      "timestamp": 1718641178217
+    }
+  ],
   "bookmarkedFileStore": [
     {
       "filepath": "Antonin/Antonin.md"
