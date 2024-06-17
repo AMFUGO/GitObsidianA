@@ -13,7 +13,7 @@
   "fontColorType": "default",
   "fontWeight": 600,
   "maxResults": 5,
-  "showStarredFiles": false,
+  "showbookmarkedFiles": true,
   "showRecentFiles": true,
   "maxRecentFiles": 5,
   "storeRecentFile": true,
@@ -23,11 +23,18 @@
   "markdownOnly": false,
   "unresolvedLinks": false,
   "recentFilesStore": [],
-  "starredFileStore": [],
+  "bookmarkedFileStore": [
+    {
+      "filepath": "Antonin/Antonin.md"
+    }
+  ],
   "searchDelay": 0,
   "replaceNewTabs": true,
   "newTabOnStart": false,
   "closePreviousSessionTabs": false,
   "omnisearch": false,
+  "showOmnisearchExcerpt": true,
+  "showStarredFiles": false,
+  "starredFileStore": [],
   "font": "Carlito"
 }
