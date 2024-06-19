@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2dded5df2ccbd895",
+        "id": "6959712b188fe4de",
         "type": "tabs",
         "children": [
           {
-            "id": "f5e6bdb5a286bfca",
+            "id": "a2b997cab8a0e171",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Antonin/Recette de cookie.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "beautitab-react-view",
+              "state": {}
             }
           }
         ]
@@ -105,33 +101,6 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "3a74e45d0c886375",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Antonin/Recette de cookie.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "62307a4f8ffeb7f8",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Antonin/Recette de cookie.md"
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -155,8 +124,9 @@
       "password-protection:Unlock password protection": false
     }
   },
-  "active": "f5e6bdb5a286bfca",
+  "active": "a2b997cab8a0e171",
   "lastOpenFiles": [
+    "Antonin/Recette de cookie.md",
     "README.md",
     "tmp/README.md",
     "tmp",
@@ -180,7 +150,6 @@
     "Antonin/Manwha.md",
     "Yume/Yume On File/Yume Remember.md",
     "Antonin/Monster.md",
-    "Antonin/Recette de cookie.md",
     "Antonin/Grand Orale.rar",
     "Antonin/Grand Orale/Grand Orale.canvas",
     "Antonin/Grand Orale/Jusqu’où la biométrie peut participe a la gestion de la ruche.md",
