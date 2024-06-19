@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Journale des reve",
+      "path": "Antonin/Rêve/Journale des reve.md"
+    },
+    {
+      "basename": "Journal rêve lucide",
+      "path": "Antonin/Rêve/Journal rêve lucide.md"
+    },
+    {
       "basename": "Recette de cookie",
       "path": "Antonin/Recette de cookie.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "Livre de poche",
       "path": "Antonin/way of life/argent/Livre de poche.md"
-    },
-    {
-      "basename": "BAC",
-      "path": "Antonin/way of life/BAC.md"
     }
   ],
   "omittedPaths": [],

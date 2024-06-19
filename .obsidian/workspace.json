@@ -11,8 +11,12 @@
             "id": "a2b997cab8a0e171",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Antonin/Rêve/Journale des reve.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -126,6 +130,7 @@
   },
   "active": "a2b997cab8a0e171",
   "lastOpenFiles": [
+    "Antonin/Rêve/Journal rêve lucide.md",
     "Antonin/Recette de cookie.md",
     "README.md",
     "tmp/README.md",

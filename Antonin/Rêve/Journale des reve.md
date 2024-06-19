@@ -242,6 +242,10 @@ Ouais le vide XD
 
 Aller nivo 5 :
 
+euhm, 6 ?
+
+J'étais dans minecraft ? dans un trous de creeper boucher a la premier personne, et on pourchassais d'autre personne, du coup on est sortie, en suite on les a suivie en contournent pour rejoindre une structure, celle-ci estais semblable a la structure de l'ender dragon dans ozone sky block, en suite apès les avoir arnaquer et détruit les crystale de l'ender et donc gagnez , on explique de nouveux détaille, maintenant le solle est fait comme de la lave mais en faite c'est pour tournée un film, le montage change sont aspé en vrais lave puis a l'aide d'une transition trop forte sa ce transforme en toilette aux quelle je fait mon affaire :) puis papa vien et dit de me dépécher de venire sa me soul mais je vien quand meme et dans le ciel ke voix des aurore boréale, de couleur vert et magenta elle étais plate et semblable a la texture d'eau dans certin jeux, elle avais de plus en plus de détaille c'étais tres jolie en suite je retourne aux toilette et mamant qui étais révéiller allant se coucher me fait la bise, puis en suite j'ai l'image d'un lapin sur un truc pour coupée du bois pour visualiser le type de découpe, et il y a en suite des bug de colision, puis appelle de tubo
+
 
 
 
