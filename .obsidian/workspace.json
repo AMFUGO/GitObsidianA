@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6959712b188fe4de",
+        "id": "b30558fb188cd35d",
         "type": "tabs",
         "children": [
           {
-            "id": "a2b997cab8a0e171",
+            "id": "9cbd07d5a3a04660",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Antonin/Rêve/Journale des reve.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "beautitab-react-view",
+              "state": {}
             }
           }
         ]
@@ -128,8 +124,9 @@
       "password-protection:Unlock password protection": false
     }
   },
-  "active": "a2b997cab8a0e171",
+  "active": "9cbd07d5a3a04660",
   "lastOpenFiles": [
+    "Antonin/Rêve/Journale des reve.md",
     "Antonin/Rêve/Journal rêve lucide.md",
     "Antonin/Recette de cookie.md",
     "README.md",
@@ -159,7 +156,6 @@
     "Antonin/Grand Orale/Grand Orale.canvas",
     "Antonin/Grand Orale/Jusqu’où la biométrie peut participe a la gestion de la ruche.md",
     "Antonin/Grand Orale/Intro 2.md",
-    "Antonin/Grand Orale/Intro.md",
     "Antonin/way of life/Goals.canvas",
     "Antonin/way of life/argent/argent méta.canvas",
     "Antonin/way of life/Summur goal/Summur goal.canvas",
