@@ -11,8 +11,12 @@
             "id": "9cbd07d5a3a04660",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Antonin/Rêve/Journale des reve.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
