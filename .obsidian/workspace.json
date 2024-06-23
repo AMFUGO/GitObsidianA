@@ -11,14 +11,11 @@
             "id": "edd0d53c6f69e3e0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Antonin/Grand Orale/Grand Orale.canvas",
-                "viewState": {
-                  "x": 1302.1266386384941,
-                  "y": -1066.9068487827003,
-                  "zoom": -2.6806079285220066
-                }
+                "file": "Antonin/Manwha.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -133,6 +130,7 @@
   },
   "active": "edd0d53c6f69e3e0",
   "lastOpenFiles": [
+    "Antonin/Grand Orale/Grand Orale.canvas",
     "Antonin/Manwha.md",
     "Antonin/Rêve/Journale des reve.md",
     "Antonin/Rêve/Journal rêve lucide.md",
@@ -160,9 +158,7 @@
     "Yume/Yume On File/Yume Remember.md",
     "Antonin/Monster.md",
     "Antonin/Grand Orale.rar",
-    "Antonin/Grand Orale/Grand Orale.canvas",
     "Antonin/Grand Orale/Jusqu’où la biométrie peut participe a la gestion de la ruche.md",
-    "Antonin/Grand Orale/Intro 2.md",
     "Antonin/way of life/Goals.canvas",
     "Antonin/way of life/argent/argent méta.canvas",
     "Antonin/way of life/Summur goal/Summur goal.canvas",
