@@ -11,8 +11,15 @@
             "id": "edd0d53c6f69e3e0",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Antonin/Grand Orale/Grand Orale.canvas",
+                "viewState": {
+                  "x": 1302.1266386384941,
+                  "y": -1066.9068487827003,
+                  "zoom": -2.6806079285220066
+                }
+              }
             }
           }
         ]
@@ -126,6 +133,7 @@
   },
   "active": "edd0d53c6f69e3e0",
   "lastOpenFiles": [
+    "Antonin/Manwha.md",
     "Antonin/Rêve/Journale des reve.md",
     "Antonin/Rêve/Journal rêve lucide.md",
     "Antonin/Recette de cookie.md",
@@ -149,7 +157,6 @@
     "Yume/Yume Chapitres/★ Yume 13 Quelle que cookie plus tard.md",
     "Yume/Yume Chapitres/★ Yume 12 Une grotte remplie de cookie.md",
     "Yume/Yume Chapitres/★ Yume 11 Bonne nouvelle....md",
-    "Antonin/Manwha.md",
     "Yume/Yume On File/Yume Remember.md",
     "Antonin/Monster.md",
     "Antonin/Grand Orale.rar",
