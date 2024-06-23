@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b30558fb188cd35d",
+        "id": "5e63fdae2f594eec",
         "type": "tabs",
         "children": [
           {
-            "id": "9cbd07d5a3a04660",
+            "id": "edd0d53c6f69e3e0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Antonin/Rêve/Journale des reve.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "beautitab-react-view",
+              "state": {}
             }
           }
         ]
@@ -128,7 +124,7 @@
       "password-protection:Unlock password protection": false
     }
   },
-  "active": "9cbd07d5a3a04660",
+  "active": "edd0d53c6f69e3e0",
   "lastOpenFiles": [
     "Antonin/Rêve/Journale des reve.md",
     "Antonin/Rêve/Journal rêve lucide.md",
