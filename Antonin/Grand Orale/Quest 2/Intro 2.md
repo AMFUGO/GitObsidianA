@@ -13,8 +13,12 @@ Je commencerai par expliquer ce que signifie cette question, en définissant la 
 Exemple 3
 
 
-Bonjour, je m'appelle Antonin Bouchon, je suis en Terminale STI2D en spécialité SIN , aujourd'hui je vais vous présentée Jusqu'ou la biométrie peut participé a la gestion de la ruche, j'expliquerais en premier ce que signifie la biométrie suive de la gestion dans dans ruche et leur lien, en suite je parlerais des enjeux lien a la biométrie relative a c'est avantage et inconvénient et sa potentiel utilité dans d'autre domaine.
+Bonjour, je m'appelle Antonin Bouchon, je suis en Terminale STI2D en spécialité SIN , aujourd'hui je vais vous présentée Jusqu'ou la biométrie peut participé a la gestion de la ruche, j'expliquerais en premier ce que signifie la biométrie suive de la gestion dans la ruche et leur lien, en suite je parlerais des enjeux lien a la biométrie relative a c'est avantage et inconvénient et sa potentiel utilité dans d'autre domaine.
 
 La biométrie est le principe de captée des donnée d'une espèce, d'un groupe pour les retranscrire en donnée numérique, cela permet de connaitre sont étape de santé, sont suivie, et même d'en apprendre sur l'espèce choisie.
 
 Relative a la gestion, la biométrie permet de donnée des valeur et dans des cas ou elle est a risque pour les abeille, donc maladie ou autre problème, comme des hausse de température ou de grand froid. Ainsi c'est l'apiculteur qui gère grâce aux information donnée par les capteur biométrique pour les aidée en rapport a leur besoins.
+
+
+
+Bonjour je m'appelle Antonin Bouchon, je suis en terminals STI2D en spécialité sin, Aujourd'hui je vais vous présentée jusqu'ou la biométrie peut participée a la gestion de la ruche
