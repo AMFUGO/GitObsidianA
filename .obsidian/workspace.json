@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5e63fdae2f594eec",
+        "id": "fd943fd794b83303",
         "type": "tabs",
         "children": [
           {
-            "id": "edd0d53c6f69e3e0",
+            "id": "b06b338ad3ab1215",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Antonin/Manwha.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "beautitab-react-view",
+              "state": {}
             }
           }
         ]
@@ -128,10 +124,10 @@
       "password-protection:Unlock password protection": false
     }
   },
-  "active": "edd0d53c6f69e3e0",
+  "active": "b06b338ad3ab1215",
   "lastOpenFiles": [
-    "Antonin/Grand Orale/Grand Orale.canvas",
     "Antonin/Manwha.md",
+    "Antonin/Grand Orale/Grand Orale.canvas",
     "Antonin/Rêve/Journale des reve.md",
     "Antonin/Rêve/Journal rêve lucide.md",
     "Antonin/Recette de cookie.md",
