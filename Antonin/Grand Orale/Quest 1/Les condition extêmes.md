@@ -1,0 +1,1 @@
+Fort froid, Forte sécheresse, Forte pluis, grêle, gêles, 

@@ -11,8 +11,15 @@
             "id": "b06b338ad3ab1215",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Antonin/Grand Orale/Grand Orale.canvas",
+                "viewState": {
+                  "x": 225.94966244125607,
+                  "y": -2345.0873286891974,
+                  "zoom": -0.7205953311290942
+                }
+              }
             }
           }
         ]
@@ -73,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 309.5
   },
   "right": {
     "id": "624c7a89d4302976",
@@ -126,11 +133,16 @@
   },
   "active": "b06b338ad3ab1215",
   "lastOpenFiles": [
-    "Antonin/Manwha.md",
+    "Antonin/Grand Orale/Quest 1/Solution 3.md",
     "Antonin/Grand Orale/Grand Orale.canvas",
+    "Antonin/Grand Orale/Quest 1/Solution 2.md",
+    "Antonin/Grand Orale/Quest 1/Solution 1.md",
+    "Antonin/Grand Orale/Quest 2",
+    "Antonin/Grand Orale/Quest 1",
+    "Antonin/Recette de cookie.md",
+    "Antonin/Manwha.md",
     "Antonin/Rêve/Journale des reve.md",
     "Antonin/Rêve/Journal rêve lucide.md",
-    "Antonin/Recette de cookie.md",
     "README.md",
     "tmp/README.md",
     "tmp",
@@ -151,10 +163,7 @@
     "Yume/Yume Chapitres/★ Yume 13 Quelle que cookie plus tard.md",
     "Yume/Yume Chapitres/★ Yume 12 Une grotte remplie de cookie.md",
     "Yume/Yume Chapitres/★ Yume 11 Bonne nouvelle....md",
-    "Yume/Yume On File/Yume Remember.md",
-    "Antonin/Monster.md",
     "Antonin/Grand Orale.rar",
-    "Antonin/Grand Orale/Jusqu’où la biométrie peut participe a la gestion de la ruche.md",
     "Antonin/way of life/Goals.canvas",
     "Antonin/way of life/argent/argent méta.canvas",
     "Antonin/way of life/Summur goal/Summur goal.canvas",
@@ -174,8 +183,6 @@
     "1714939858172.jpg",
     "1714939858136.jpg",
     "Yume/Yume Pack/Pack Magie/Pack terre/Magie de Terre.canvas",
-    "Yume/Yume Pack/Pack Magie/Pack terre/Matériaux magique",
-    "Yume/Yume Pack/Pack Magie/Pack terre/Métaux/Actinides",
     "Yume/Yume Picture/Personnages/Yume/Yume pref 5.png",
     "Yume/Yume Picture/Personnages/Yume/Yume retenue.png",
     "Yume/Yume Picture/Personnages/Kōri/Kōri retenue.jpg",
