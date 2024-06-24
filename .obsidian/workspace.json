@@ -15,9 +15,9 @@
               "state": {
                 "file": "Antonin/Grand Orale/Grand Orale.canvas",
                 "viewState": {
-                  "x": 225.94966244125607,
-                  "y": -2345.0873286891974,
-                  "zoom": -0.7205953311290942
+                  "x": 911.8619455980631,
+                  "y": -473.70943895179346,
+                  "zoom": -0.30392866446242756
                 }
               }
             }
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 309.5,
+    "collapsed": true
   },
   "right": {
     "id": "624c7a89d4302976",
