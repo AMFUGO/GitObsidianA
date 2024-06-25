@@ -1,7 +1,7 @@
 
 Exemple 1
 
-Bonjour je m'appelle Antonin bouchon, je suis en terminale STI2D en spécialité SIN, aujourd'hui je vais vous présenté [[Comment un apiculteur peut améliorer les condition de vie de ces abeille aux condition extrêmes]] ainsi a partir de cette question je vais expliquer pourquoi il faut améliorer leur condition de vie en relation avec les nouvelle condition extrême relative aux réchauffement climatique. cela amènera a savoirs qu'elle serait les solution technique pour résoudre cette problématique avec les pour et contre que cela amène suivie d'une conclusion départagent cela. 
+Bonjour je m'appelle Antonin bouchon, je suis en terminale STI2D en spécialité SIN, aujourd'hui je vais vous présenté [[Antonin/Grand Orale/Quest 1/Comment un apiculteur peut améliorer les condition de vie de ces abeille aux condition extrêmes]] ainsi a partir de cette question je vais expliquer pourquoi il faut améliorer leur condition de vie en relation avec les nouvelle condition extrême relative aux réchauffement climatique. cela amènera a savoirs qu'elle serait les solution technique pour résoudre cette problématique avec les pour et contre que cela amène suivie d'une conclusion départagent cela. 
 
 Exemple 2
 

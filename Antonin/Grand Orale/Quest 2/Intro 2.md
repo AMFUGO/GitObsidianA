@@ -1,7 +1,7 @@
 
 Exemple 1
 
-Bonjour je m'appelle Antonin bouchon, je suis en terminale STI2D en spécialité SIN, aujourd'hui je vais vous présenté [[Jusqu’où la biométrie peut participe a la gestion de la ruche]] , je vous expliquerais en premières ce que signifie la question, par la biométrie, la participation jusqu'à la gestion amenant aux en jeux aux qu'elle subvenir pour la gestion des abeille, les avantage technique et écologique, et leur désavantage pour finalement finir sur la conclusion
+Bonjour je m'appelle Antonin bouchon, je suis en terminale STI2D en spécialité SIN, aujourd'hui je vais vous présenté [[Antonin/Grand Orale/Quest 2/Jusqu’où la biométrie peut participe a la gestion de la ruche]] , je vous expliquerais en premières ce que signifie la question, par la biométrie, la participation jusqu'à la gestion amenant aux en jeux aux qu'elle subvenir pour la gestion des abeille, les avantage technique et écologique, et leur désavantage pour finalement finir sur la conclusion
 
 Exemple 2
 
