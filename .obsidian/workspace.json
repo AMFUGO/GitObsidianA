@@ -11,8 +11,12 @@
             "id": "5062602b58b32b22",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Antonin/Manwha.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
